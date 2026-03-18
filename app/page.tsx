@@ -153,12 +153,6 @@ export default function LibraryPage() {
     }
   }, [selectedPrompt])
 
-  const handleDelete = useCallback((id: number) => {
-    setPrompts((prev) => prev.filter((p) => p.id !== id))
-    setTotal((prev) => prev - 1)
-    setSelectedPrompt(null)
-  }, [])
-
   return (
     <div className="flex h-full">
       {/* Filter sidebar - desktop */}
@@ -416,7 +410,6 @@ export default function LibraryPage() {
           prompt={selectedPrompt}
           onClose={() => setSelectedPrompt(null)}
           onFavoriteToggle={handleFavoriteToggle}
-          onDelete={handleDelete}
           categoryColor={categoryColorMap[selectedPrompt.category]}
         />
       )}
