@@ -1,0 +1,2266 @@
+[
+  {
+    "id": 1,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "replace the jar in the woman's hand with the attached product (image 2). make sure to do it in a hyper realistic way",
+    "tags": []
+  },
+  {
+    "id": 2,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "replace the cylinder bottle in the woman's hand with the attached product (image 2). make sure to do it in a hyper realistic way",
+    "tags": []
+  },
+  {
+    "id": 3,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "replace the cylinder bottle in the woman's left hand with the attached product (image 2). make sure to do it in a hyper realistic way.",
+    "tags": []
+  },
+  {
+    "id": 4,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "replace the cylinder bottle in the woman's hand with the attached product (image 2). make sure to do it in a hyper realistic way without harming the glass",
+    "tags": []
+  },
+  {
+    "id": 5,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "make the woman 10 years older but with healthy tight skin",
+    "tags": []
+  },
+  {
+    "id": 6,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "make the woman 20 years older but with healthy tight skin",
+    "tags": []
+  },
+  {
+    "id": 7,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "make the woman 20 years older",
+    "tags": []
+  },
+  {
+    "id": 8,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "make the woman 20 years older, make sure she has Great skin quality for her age",
+    "tags": []
+  },
+  {
+    "id": 9,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "make the woman 10 years older, but make sure she has Great skin quality for hers age, she is 57",
+    "tags": []
+  },
+  {
+    "id": 10,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "replace the cylinder bottle in the woman's left hand with the attached product. make sure to do it in a hyper realistic way. the magenta line should be thinner than the original one in the reference image",
+    "tags": []
+  },
+  {
+    "id": 11,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "replace the cylinder bottle in the woman's left hand with the attached product, keep the jar in her right hand exactly the same. make sure to do it in a hyper realistic way. the magenta line should be thinner than the original one in the reference image",
+    "tags": []
+  },
+  {
+    "id": 12,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "replace the cylinder bottle with the attached product. make sure to do it in a hyper realistic way. the magenta line should be thinner than the original one in the reference image",
+    "tags": []
+  },
+  {
+    "id": 13,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "create an image inspired by the reference image 1, make sure to use the cylinder product In image 2",
+    "tags": []
+  },
+  {
+    "id": 14,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "replace the jar in the image with the attached product",
+    "tags": []
+  },
+  {
+    "id": 15,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "replace the jar in the image with the attached product, make sure that the attached product is rendered perfectly and accurately",
+    "tags": []
+  },
+  {
+    "id": 16,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "Ultra realistic beauty skincare ad photo, close-up portrait of two women side-by-side, faces touching, both smiling naturally at camera, clean healthy skin with glossy hydrated finish, minimal makeup, high-end skincare commercial aesthetic.\nOne woman is fair-skinned with light freckles and blonde hair, soft natural eyebrows, subtle fine lines and realistic skin texture. The other woman is tan/olive skin with dark hair pulled back, defined eyebrows, smooth glowing complexion, realistic pores and specular highlights.\nThey are holding the attached product in the center bottom of the frame, jar facing camera, label sharp and readable, product perfectly lit with soft reflections.\nWarm peach/beige studio background with smooth gradient, premium editorial lighting, softbox key light with gentle fill, crisp catchlights in eyes, shallow depth of field, 85mm lens look, high resolution, studio retouching but still realistic skin texture, natural smiles, beauty campaign photography, clean composition, no extra props.\n\nPhotorealistic, ultra-detailed, commercial product photography, skin pores visible, natural imperfections, soft shadows, warm tones, sharp focus on faces and product.",
+    "tags": []
+  },
+  {
+    "id": 17,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "Premium studio product photography of the attached product standing upright, centered composition, tall metallic silver cosmetic bottle with a thin purple accent band near the top, clean modern typography on the label, label perfectly sharp and readable.\nThe product is placed on a glossy reflective surface creating a clear mirror reflection beneath it, reflection aligned and symmetrical.\nBackground is a soft sky-blue gradient with subtle dreamy cloud shapes, airy atmosphere, calm and clean aesthetic, minimal and elegant.\nLighting is soft and diffused like a high-end studio softbox, gentle highlights along the metallic cylinder, smooth specular reflections, no harsh shadows, high dynamic range.\nShot looks like 85mm product lens, shallow depth of field but full product remains in focus, ultra high resolution, premium commercial retouching, crisp edges, realistic metal texture, perfect clean finish, no dust, no scratches.\n\nUltra realistic, photorealistic, luxury skincare ad style, minimal composition, editorial product shot, high detail, sharp focus, soft clouds bokeh.",
+    "tags": []
+  },
+  {
+    "id": 18,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "Premium studio product photography of the attached product standing upright, centered composition, shot as a hero product with a slightly low camera angle (camera positioned below the center of the bottle, looking slightly upward).\nThe top of the cap is subtly visible (you can see the circular top plane and rim), with gentle perspective.\nThe attached product is rotated very slightly (a few degrees) so it is not perfectly flat-on, but the front label remains fully readable and mostly facing camera.\nA small front-facing spray nozzle is visible near the top, centered.\nMetallic silver cylindrical bottle with a thin purple band near the top, clean modern typography, label sharp and readable.\n\nThe product stands on a glossy reflective surface creating a clean mirror reflection directly beneath it, reflection aligned and symmetrical.\nBackground is a soft sky-blue gradient with dreamy soft cloud shapes, airy calm atmosphere, minimal premium aesthetic.\nLighting is soft and diffused (large softbox), smooth specular highlights along the metal body, gentle falloff, no harsh shadows, high dynamic range.\nShallow depth of field but the entire product remains in crisp focus, ultra high resolution, luxury skincare advertising style, clean retouching, realistic metal texture, no dust, no scratches.",
+    "tags": []
+  },
+  {
+    "id": 19,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "product-photography",
+    "prompt": "Premium lifestyle product photography of the attached product standing upright on a light stone pool deck edge, minimal clean composition.\nBright natural sunlight, midday sun, crisp long shadows cast diagonally across the stone surface, high contrast but still premium.\nThe attached product is a tall metallic silver cylindrical bottle with a thin purple band near the top, label facing camera and readable, subtle realistic reflections on the metal body.\nCamera angle is slightly low and heroic, looking slightly upward so the top cap plane is subtly visible, product centered and dominant in frame.\nBackground is a soft white gradient fading into pale sky tones, airy and minimal, with shallow depth of field and gentle blur.\nStone surface shows fine texture and clean edges, realistic limestone/concrete look, luxury resort vibe.\nEditorial sharpness, ultra realistic, commercial product ad, high resolution, natural color grading, clean retouch, no dust, no scratches, premium skincare campaign aesthetic.",
+    "tags": []
+  },
+  {
+    "id": 20,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "High-end studio product photography of the attached product being held in a hand, clean commercial skincare advertising style.\nA well-groomed feminine hand model holds the attached product delicately between fingers, natural skin tone, smooth healthy skin, manicured nails with glossy nude polish.\nThe attached product is a tall metallic silver cylindrical bottle with a thin purple band near the top, label readable and sharp, black bold typography.\nThe bottle is held at a slight diagonal angle (tilted), creating a dynamic composition, with the top spray nozzle visible.\nBackground is a clean white gradient with a subtle soft lavender/grey vignette, minimal and premium.\nSoft diffused studio lighting, gentle highlights on the metallic surface, controlled reflections, clean shadowing, ultra sharp focus on the product, high resolution, photorealistic, commercial retouching.\n\nLuxury e-commerce packshot meets editorial beauty photography, minimal, clean, modern.",
+    "tags": []
+  },
+  {
+    "id": 21,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "product-photography",
+    "prompt": "A dreamy premium product photograph of the attached product floating in mid-air against a bright blue sky with soft white clouds.\nThe attached product is a tall metallic silver cylindrical skincare bottle with a thin purple band near the top, bold vertical black typography, label sharp and readable.\nThe bottle is tilted diagonally (dynamic angle), as if gently drifting in the sky, with subtle perspective and realistic depth.\nNatural daylight lighting with soft highlights on the metallic surface, clean reflections, no harsh shadows.\nBackground is a vibrant sky-blue gradient with fluffy clouds softly blurred, airy and optimistic mood.\nUltra realistic, photorealistic, commercial skincare advertising style, high resolution, crisp edges, clean premium retouching, minimal composition.",
+    "tags": []
+  },
+  {
+    "id": 22,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "product-photography",
+    "prompt": "Premium lifestyle product photography of the attached product standing upright on a light stone / concrete surface in an outdoor modern architectural setting.\nMinimal brutalist background with large concrete wall planes and clean geometric lines, soft depth of field.\nWarm natural sunlight (golden hour or late afternoon), crisp realistic shadows and strong light direction creating geometric shadow shapes across the surface and background.\nThe attached product is centered and dominant in the frame, metallic silver cylindrical bottle with a thin purple band near the top, label facing camera, typography sharp and readable, realistic metallic reflections.\nCamera is slightly low and heroic, subtle perspective with the top cap plane faintly visible.\nUltra realistic, photorealistic, luxury skincare advertising style, editorial sharpness, high resolution, clean premium retouching, minimal composition, no extra props.",
+    "tags": []
+  },
+  {
+    "id": 23,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "Ultra realistic beauty skincare ad photo, close-up portrait of two middle aged women side-by-side, faces touching, both smiling naturally at camera, clean healthy skin with glossy hydrated finish, minimal makeup, high-end skincare commercial aesthetic.\nOne woman is 56 years old, fair-skinned with light freckles and blonde hair, soft natural eyebrows, subtle fine lines and realistic skin texture. The other woman is 54 years old, tan/olive skin with dark hair pulled back, defined eyebrows, smooth glowing complexion, realistic pores and specular highlights.\nThey are holding the attached product in the center bottom of the frame, jar facing camera, label sharp and readable, product perfectly lit with soft reflections.\ncool silver studio background with smooth gradient, premium editorial lighting, softbox key light with gentle fill, crisp catchlights in eyes, shallow depth of field, 85mm lens look, high resolution, studio retouching but still realistic skin texture, natural smiles, beauty campaign photography, clean composition, no extra props. Both women have great skin for their age, tight and healthy.\n\nPhotorealistic, ultra-detailed, commercial product photography, skin pores visible, natural imperfections, soft shadows, warm tones, sharp focus on faces and product.",
+    "tags": []
+  },
+  {
+    "id": 24,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "product-swap",
+    "prompt": "replace the products in the image with the attached product",
+    "tags": []
+  },
+  {
+    "id": 25,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "product-photography",
+    "prompt": "High-end studio product photography of three identical units of the attached product floating in mid-air above an open hand.\nA well-groomed hand model is placed at the bottom of the frame, palm facing upward as if presenting or levitating the products.\nThe attached product is a premium metallic silver cosmetic jar with a thin purple accent band and bold black typography on the label, label sharp and readable.\n\nThree jars are levitating vertically in the center of the frame, stacked with space between them, each jar at a slightly different tilt angle for dynamic composition.\nThe top jar is slightly angled with the lid visible, the middle jar is more front-facing, and the bottom jar is angled differently, all maintaining readable branding.\nSoft diffused studio lighting, gentle highlights on metallic surfaces, clean specular reflections, subtle soft shadows, ultra realistic, photorealistic, commercial skincare advertising style.\n\nBackground is a clean white gradient with a very subtle cool tone, minimal and premium.\nHigh resolution, crisp edges, premium retouching, e-commerce meets editorial aesthetic.",
+    "tags": []
+  },
+  {
+    "id": 26,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "product-photography",
+    "prompt": "High-end beauty product photography featuring the attached product seen through a fogged glass surface covered with condensation and water droplets.\nThe attached product is placed behind the glass, slightly blurred by the foggy texture, but the branding remains recognizable and mostly readable.\nThe glass is covered with realistic droplets of various sizes, some streaking downward, creating an authentic shower / steam effect.\n\nSoft diffused studio lighting creates gentle highlights on the droplets and a luminous glow across the fogged surface.\nBackground is minimal and bright with a clean white gradient, premium skincare aesthetic.\nThe attached product appears metallic silver with a thin purple accent band and bold black typography.\nPhotorealistic, ultra detailed, macro realism, premium commercial advertising style, clean retouching, high resolution.",
+    "tags": []
+  },
+  {
+    "id": 27,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "High-end studio beauty product photography of the attached product held delicately between fingers by a hand model.\nA well-groomed feminine hand holds the attached product from below with a light elegant grip, smooth healthy skin, manicured nails with glossy nude polish.\nThe attached product is a metallic silver cosmetic jar with subtle holographic rainbow reflections, a thin purple accent band around the lid area, and bold black typography on the label, label sharp and readable.\n\nBackground is a soft dreamy pastel gradient (lavender, blush pink, pale mint, light blue), smooth transitions, clean premium aesthetic.\nSoft diffused studio lighting, gentle highlights on the metallic jar, minimal shadows, ultra realistic, photorealistic, luxury skincare advertising style, high resolution, crisp edges, premium retouching.",
+    "tags": []
+  },
+  {
+    "id": 28,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "product-photography",
+    "prompt": "High-end studio product photography featuring the attached product being held delicately by a hand from above.\nA well-groomed hand model pinches the attached product between thumb and fingers, holding it in mid-air.\nNatural healthy skin tone, smooth skin, clean minimal manicure, premium hand model aesthetic.\nThe attached product is a metallic silver cosmetic jar with subtle holographic rainbow reflections, a thin purple accent band around the lid area, and bold black typography on the label, label sharp and readable.\n\nBackground is a clean white gradient, minimal and premium.\nSoft diffused studio lighting creates gentle highlights on the metallic jar and clean shadows, ultra realistic, photorealistic, high resolution, crisp focus, commercial skincare advertising style, clean retouching.",
+    "tags": []
+  },
+  {
+    "id": 29,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "product-photography",
+    "prompt": "Ultra realistic high-end studio product photography of the attached product held in mid-air by a hand entering from the top-right corner of the frame.\nThe hand is posed in a clean elegant pinch grip holding the jar by the lid: the thumb presses the right side of the lid, the index finger supports the left side of the lid, with the fingers forming a soft curved arch above the jar.\nOnly the hand and fingers are visible (cropped wrist), clean natural nails, minimal manicure, smooth healthy skin.\n\nThe attached product is a small 30ml cosmetic jar and appears large in frame, filling most of the image width (approximately 60–70% of the frame).\nJar is centered horizontally and slightly lower than the hand, floating with a small gap of empty space beneath it.\nLabel faces the camera and is perfectly readable, metallic silver packaging with subtle holographic rainbow reflections and a thin purple accent band around the lid.\n\nBackground is a clean white gradient studio backdrop with very soft falloff, minimal premium e-commerce aesthetic.\nLighting is high-key soft studio lighting (large softbox), gentle highlights, clean reflections on the metallic jar, ultra sharp focus on product, photorealistic, commercial skincare advertising style, high resolution.",
+    "tags": []
+  },
+  {
+    "id": 30,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "replace the jar in the image with the attached product in a hyper realistic and accurate way",
+    "tags": []
+  },
+  {
+    "id": 31,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "product-photography",
+    "prompt": "Futuristic high-end skincare product photography of the attached product suspended in mid-air, intersecting with a large iridescent ripple wave effect.\nThe attached product is a metallic silver cosmetic jar with subtle holographic rainbow reflections, a thin purple accent band around the lid area, and bold black typography on the label, label sharp and readable.\nThe jar is centered horizontally, slightly to the right, with a clean side view and a subtle underside visible.\n\nBehind the product, a large circular ripple / wave distortion effect spreads outward like concentric rings in glass, creating a soft iridescent portal look.\nThe ripple is semi-transparent and reflective, with pearlescent tones (silver, lavender, pale cyan) blending smoothly.\n\nBackground is a smooth metallic-silver gradient with soft light falloff, minimal and premium.\nLighting is controlled studio lighting with clean specular highlights and smooth reflections on the jar.\nUltra realistic, photorealistic, high resolution, luxury skincare advertising style, editorial sharpness, futuristic minimal aesthetic.",
+    "tags": []
+  },
+  {
+    "id": 32,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "product-photography",
+    "prompt": "A dreamy premium product photograph of the attached product floating in mid-air against a bright blue sky with soft fluffy white clouds.\nThe attached product is a metallic silver cosmetic jar with subtle holographic rainbow reflections, a thin purple accent band around the lid area, and bold black typography on the label, label sharp and readable.\nThe jar is centered in frame and appears suspended in the air, perfectly balanced, with a clean minimal composition.\nNatural daylight lighting with soft highlights and gentle reflections on the metallic surface, no harsh shadows.\nBackground is a vibrant sky-blue gradient with clouds softly blurred, airy optimistic mood.\nUltra realistic, photorealistic, high resolution, luxury skincare advertising style, clean editorial retouching.",
+    "tags": []
+  },
+  {
+    "id": 33,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "A close-up studio portrait of a mature, light-skinned woman, likely in her early sixties, posing with the attached product. Her face glistens with water droplets, creating a\nfresh, dewy look.",
+    "tags": []
+  },
+  {
+    "id": 34,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "A close-up studio portrait of a mature, light-skinned woman, likely in her early sixties, posing with the attached product. her lips are a bit more plummeted after using the lip volume plumper gloss",
+    "tags": []
+  },
+  {
+    "id": 35,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "product-swap",
+    "prompt": "replace the product In the reference image with the attached product in image 2",
+    "tags": []
+  },
+  {
+    "id": 36,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "a beauty advertisement photograph features a mature east asian woman in her late fifties, in close-up view, she has radiant skin. the model holds the attached product near  her lips. her lips display a soft satin-finish lipstick, and her black hair frames her face naturally. the background is pure white with clean, minimalistic studio lighting that creates soft, diffused illumination on her features. the composition maintains a premium skincare aesthetic with hyper-realistic detail and editorial quality. professional beauty photography with studio lighting setup and sharp focus on skin texture and product details.",
+    "tags": []
+  },
+  {
+    "id": 37,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "make her 20 years older, keep her lips plumped and glossy and make sure to keep the composition as is",
+    "tags": []
+  },
+  {
+    "id": 38,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "make her 20 years older, keep her lips plumped and glossy and make sure to keep the composition as is.  professional beauty photography with studio lighting setup and sharp focus on skin texture and product details.",
+    "tags": []
+  },
+  {
+    "id": 39,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "make her 20 years older yet with radiant skin, healthy for her age tight and wrinkle free, keep her lips plumped and glossy and make sure to keep the composition as is.  professional beauty photography with studio lighting setup and sharp focus on skin texture and product details.",
+    "tags": []
+  },
+  {
+    "id": 40,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "product-swap",
+    "prompt": "replace the product in image 1 with the attached product in image 2 in a hyper realistic seamless way. light silver gradient background, sharp focus on the product",
+    "tags": []
+  },
+  {
+    "id": 41,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "a beauty advertisement photograph features a mature east asian woman in her late fifties, in close-up view, she has radiant skin. the model holds the attached product near her lips. her lips are a bit plumped and glossy, and her black hair frames her face naturally. the background is pure white with clean, minimalistic studio lighting that creates soft, diffused illumination on her features. the composition maintains a premium skincare aesthetic with hyper-realistic detail and editorial quality. professional beauty photography with studio lighting setup and sharp focus on skin texture and product details.",
+    "tags": []
+  },
+  {
+    "id": 42,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "product-swap",
+    "prompt": "replace the product in image 1 with the attached product in image 2 in a hyper realistic seamless way. light silver gradient background, sharp focus on the product. keep the woman exactly the same and unchanged",
+    "tags": []
+  },
+  {
+    "id": 43,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "Ultra realistic beauty macro close-up of a mature woman’s lower face focusing on glossy lips and skin texture, high-end skincare editorial photography.\nThe shot is tightly cropped showing the nose, upper lip, and mouth area, with natural pores and realistic skin texture.\nLips are slightly parted with a wet glossy finish, soft highlights and specular shine.\n\nThe attached product is held close to the mouth, positioned vertically, with its applicator tip gently touching the lower lip.\n\nLighting is strong natural sunlight creating crisp highlights and defined shadows across the face, warm skin tones, clean neutral background.\nShallow depth of field, extreme detail, editorial beauty campaign aesthetic, photorealistic, high resolution, clean retouching while preserving texture.",
+    "tags": []
+  },
+  {
+    "id": 44,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "Ultra realistic beauty macro close-up of a mature American woman’s lower face focusing on extremely glossy, high-shine lips and natural skin texture, high-end skincare editorial photography.\nThe shot is tightly cropped showing the nose, upper lip, and mouth area, with visible pores and realistic skin texture.\nLips are slightly parted and heavily coated in lip gloss, creating a thick wet-look finish with strong specular highlights, reflective shine, and a smooth glass-like surface.\n\nThe attached product is held close to the mouth, positioned vertically, with its applicator tip gently touching the center of the lower lip.\n\nLighting is strong natural sunlight with crisp highlights and defined shadows across the face, warm skin tones, clean neutral background.\nShallow depth of field, extreme detail, editorial beauty campaign aesthetic, photorealistic, high resolution, clean retouching while preserving texture.",
+    "tags": []
+  },
+  {
+    "id": 45,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "Ultra realistic beauty macro close-up of a mature African-American woman’s lower face focusing on extremely glossy, high-shine lips and natural skin texture, high-end skincare editorial photography.\nThe shot is tightly cropped showing the nose, upper lip, and mouth area, with visible pores and realistic skin texture.\nLips are slightly parted and heavily coated in lip gloss, creating a thick wet-look finish with strong specular highlights, reflective shine, and a smooth glass-like surface.\n\nThe attached product is held close to the mouth, positioned vertically, with its applicator tip gently touching the center of the lower lip.\n\nLighting is strong natural sunlight with crisp highlights and defined shadows across the face, warm skin tones, clean neutral background.\nShallow depth of field, extreme detail, editorial beauty campaign aesthetic, photorealistic, high resolution, clean retouching while preserving texture.",
+    "tags": []
+  },
+  {
+    "id": 46,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "a beauty advertisement photograph features a mature black American woman in her late fifties, in close-up view, she has radiant skin. the model holds the attached product near her lips. her lips are a bit plumped and glossy, and her black hair frames her face naturally. the background is pure white with clean, minimalistic studio lighting that creates soft, diffused illumination on her features. the composition maintains a premium skincare aesthetic with hyper-realistic detail and editorial quality. professional beauty photography with studio lighting setup and sharp focus on skin texture and product details.",
+    "tags": []
+  },
+  {
+    "id": 47,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "a beauty advertisement photograph features a mature black American woman in her late fifties, in close-up view, she has radiant skin. the model holds the attached product near her lips. her lips are plumped and glossy forming a kiss shape, and her black hair frames her face naturally. the background is pure white with clean, minimalistic studio lighting that creates soft, diffused illumination on her features. the composition maintains a premium skincare aesthetic with hyper-realistic detail and editorial quality. professional beauty photography with studio lighting setup and sharp focus on skin texture and product details.",
+    "tags": []
+  },
+  {
+    "id": 48,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "Ultra realistic beauty macro close-up of a gorgeous mature plus size dark African-American woman’s lower face focusing on extremely glossy, high-shine lips and natural skin texture, high-end skincare editorial photography. She has radiant healthy skin.\nThe shot is tightly cropped showing the nose, upper lip, and mouth area, with visible pores and realistic skin texture.\nLips are slightly parted and heavily coated in lip gloss, creating a thick wet-look finish with strong specular highlights, reflective shine, and a smooth glass-like surface.\n\nThe attached product is held close to the mouth, positioned vertically, with its applicator tip gently touching the center of the lower lip.\n\nLighting is strong natural sunlight with crisp highlights and defined shadows across the face, warm skin tones, clean neutral background.\nShallow depth of field, extreme detail, editorial beauty campaign aesthetic, photorealistic, high resolution, clean retouching while preserving texture.",
+    "tags": []
+  },
+  {
+    "id": 49,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "Ultra realistic beauty macro close-up of a gorgeous mature plus size Nigerian woman’s lower face focusing on extremely glossy, high-shine lips and natural skin texture, high-end skincare editorial photography. She has radiant healthy skin.\nThe shot is tightly cropped showing the nose, upper lip, and mouth area, with visible pores and realistic skin texture.\nLips are slightly parted and heavily coated in lip gloss, creating a thick wet-look finish with strong specular highlights, reflective shine, and a smooth glass-like surface.\n\nThe attached product is held close to the mouth, positioned vertically, with its applicator tip gently touching the center of the lower lip.\n\nLighting is strong natural sunlight with crisp highlights and defined shadows across the face, warm skin tones, clean neutral bright background.\nShallow depth of field, extreme detail, editorial beauty campaign aesthetic, photorealistic, high resolution, clean retouching while preserving texture.",
+    "tags": []
+  },
+  {
+    "id": 50,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "High-end editorial beauty portrait of a mature blonde American woman in a clean studio setting.\nTight portrait framing from upper chest to top of head, face centered, neutral expression with slightly parted lips, glossy lipstick finish.\nHair pulled back sleek and clean, minimal styling, premium fashion skincare campaign aesthetic.\n\nShe holds the attached product upright in one hand directly in front of her mouth.\nHer hand grip is delicate and controlled:\n\nthumb and index finger pinch the body of the product near the middle\n\nmiddle finger supports from behind\n\nring finger lightly rests below for stability\n\nnails are short, neat, natural and clean\n\nShe is actively applying the product to her lips: the applicator tip is pressed gently against the center of the lower lip, touching the lip surface with a subtle upward angle, as if smoothing product onto the lip line.\nThe product is aligned vertically under the lips, positioned precisely in the center of the frame.\n\nSoft studio lighting with clean highlights and gentle shadows, smooth skin retouching while keeping natural texture, shallow depth of field, photorealistic, ultra detailed, luxury beauty advertising style, high resolution.",
+    "tags": []
+  },
+  {
+    "id": 51,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "High-end editorial beauty portrait of a mature American woman, photographed like a luxury fashion skincare campaign.\nNatural, alive expression with subtle confidence, not posed or stiff.\nHer head is slightly tilted and rotated (a small 10–15° turn), with relaxed shoulders and a soft natural posture.\nEyes look slightly down toward the camera with a real human presence, lips gently parted with a glossy finish.\n\nShe holds the attached product in a natural elegant way, not centered like a catalog shot.\nThe product is held vertically close to the mouth using a refined pinch grip:\n\nthumb and index finger hold the body of the product\n\nmiddle finger supports from behind\n\nhand relaxed, wrist slightly bent\n\nnails short, clean, natural\n\nShe is actively using the product: the applicator tip touches the center of the lower lip, as if she is gently gliding or pressing product onto the lip surface in a subtle application moment.\nThe product is slightly off-center relative to the face (editorial composition), not perfectly symmetrical.\n\nLighting is premium beauty studio lighting: soft key light + controlled specular highlights, gentle shadow shaping on cheekbones and jawline, clean white gradient background.\nShot on an 85mm lens look, shallow depth of field, ultra realistic skin texture with high-end retouching (no plastic skin), luxury editorial sharpness, photorealistic, high resolution.",
+    "tags": []
+  },
+  {
+    "id": 52,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "High-end editorial fashion beauty portrait of a mature American woman, head-and-shoulders composition with the entire head fully visible in frame (including hairline and top of head), with significant empty space above the head (headroom), premium magazine composition, not a close-up.\nCamera pulled back for a medium portrait framing, not macro, forehead not cropped, 85mm lens look, shallow depth of field.\n\nShe has a natural confident expression with subtle head tilt and slight rotation, realistic micro-movement, not stiff or robotic.\nShe is fully dressed, wearing an elegant crisp white women’s button-down shirt (fashion editorial styling), collar visible, shoulders covered, top buttons closed, no cleavage, no bare shoulders, modest premium wardrobe.\nClean premium studio background: soft white gradient with gentle falloff.\n\nShe holds the attached product vertically in front of her mouth using a refined pinch grip: thumb and index finger on the body, middle finger supporting behind, wrist relaxed.\nShe is actively applying it: the applicator tip touches the center of the lower lip while her lips are slightly parted.\nHer lips are heavily coated in glossy lip gloss, wet reflective shine, visible specular highlights and smooth glassy finish.\n\nLuxury beauty lighting: soft key light + controlled highlights, gentle shadow shaping, high-end retouching with real skin texture (no plastic skin), photorealistic, editorial sharpness, premium fashion campaign quality.",
+    "tags": []
+  },
+  {
+    "id": 53,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "High-end editorial beauty portrait of a mature American woman, head-and-shoulders, entire head visible (top of head included) with large headroom above, premium magazine composition, not close-up. 85mm portrait look, shallow depth of field.\nSoft white gradient studio background.\n\nNatural confident expression with subtle head tilt, relaxed micro-movement, not stiff.\nShe is fully dressed in a crisp white women’s button-down shirt, collar visible, shoulders covered.\n\nShe holds the attached product vertically in front of her mouth with a refined pinch grip (thumb + index, middle finger support).\nShe is actively applying it: applicator tip touching the center of the lower lip, lips slightly parted.\nLips are heavily coated with wet glossy lip gloss, strong reflective shine and specular highlights.\n\nLuxury beauty lighting, clean controlled highlights, realistic skin texture, photorealistic, editorial sharpness.",
+    "tags": []
+  },
+  {
+    "id": 54,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "High-end editorial beauty portrait of a mature American woman, head-and-shoulders, entire head visible with large headroom, premium magazine composition, 85mm portrait look, shallow depth of field.\n\nReal premium studio background: clean seamless off-white paper backdrop / cyclorama wall, smooth and minimal with subtle tonal falloff, no dirt, no grunge, luxury campaign look.\nSoft contact shadow behind her head and shoulders, natural light wrap and bounce light for realistic integration.\n\nNatural confident expression with subtle head tilt, relaxed micro-movement.\nShe is fully dressed in a crisp white women’s button-down shirt, collar visible, shoulders covered.\n\nShe holds the attached product vertically in front of her mouth with a refined pinch grip.\nShe is actively applying it: applicator tip touching the center of the lower lip, lips slightly parted.\nLips are heavily coated with wet glossy lip gloss, strong reflective shine.\n\nLuxury beauty lighting, clean controlled highlights, realistic skin texture, slight film grain, photorealistic, editorial sharpness.",
+    "tags": []
+  },
+  {
+    "id": 55,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "make her 20 years older without glasses",
+    "tags": []
+  },
+  {
+    "id": 56,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "wipe off the lipstick and replace it with transparent gloss, keep her lips plumped yet natural looking",
+    "tags": []
+  },
+  {
+    "id": 57,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "wipe off the lipstick and replace it with transparent gloss, make her lips plumped yet natural looking and glossy",
+    "tags": []
+  },
+  {
+    "id": 58,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "change her identity to the identity of the woman in image 2",
+    "tags": []
+  },
+  {
+    "id": 59,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "change her identity to the identity of the woman in image 2, yet keep the exact pose and composition like in the reference image 1",
+    "tags": []
+  },
+  {
+    "id": 60,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "make her American",
+    "tags": []
+  },
+  {
+    "id": 61,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "ethnicity-change",
+    "prompt": "change her ethnicity to white American, keep her in the same age and same facial expression, same head pose and same glossy lips",
+    "tags": []
+  },
+  {
+    "id": 62,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "ethnicity-change",
+    "prompt": "change only her ethnicity to white American, keep all the rest the same",
+    "tags": []
+  },
+  {
+    "id": 63,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "product-swap",
+    "prompt": "give her a slight head tilt and change the product to the attached product in image 2",
+    "tags": []
+  },
+  {
+    "id": 64,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "product-swap",
+    "prompt": "give her a slight head tilt of a few degrees to the left and change the product to the attached product in image 2 in a hyper realistic seamless way",
+    "tags": []
+  },
+  {
+    "id": 65,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "product-swap",
+    "prompt": "change the product in image 1 to the attached product in image 2 in a hyper realistic way",
+    "tags": []
+  },
+  {
+    "id": 66,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "ethnicity-change",
+    "prompt": "make the woman Scandinavian, but keep all the rest of the image exactly the same including the product",
+    "tags": []
+  },
+  {
+    "id": 67,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "ethnicity-change",
+    "prompt": "make the woman Scandinavian, but keep all the rest of the image exactly the same including the product and the head pose. make her lips plumped and glossy",
+    "tags": []
+  },
+  {
+    "id": 68,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "ethnicity-change",
+    "prompt": "make the woman a mature Scandinavian woman with radiant skin but with slight imperfections, but keep all the rest of the image exactly the same including the product and the head pose. make her lips plumped and glossy",
+    "tags": []
+  },
+  {
+    "id": 69,
+    "date": "2026-02-04",
+    "model": "nano_banana_2",
+    "category": "product-swap",
+    "prompt": "replace the product in image 1 with the product in image 2 in a hyper realistic way",
+    "tags": []
+  },
+  {
+    "id": 70,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "beauty-editorial",
+    "prompt": "High-end editorial beauty group portrait of three mature women (55–70), diverse skin tones and ethnic backgrounds, photographed closely together with natural warmth and connection. Head-and-shoulders framing, full faces clearly visible, relaxed posture, genuine smiles, subtle micro-movement and human imperfection — not posed or stiff.\n\nEach woman holds one of the attached products, resulting in three products total in frame — one per subject. The products are held naturally at chest level with relaxed, realistic hand poses; fingers gently curved, wrists soft. Each label is visible and readable without forced symmetry or artificial alignment.\n\nSkin appears real, luminous, and healthy with visible texture, fine lines, and natural variation — premium editorial retouching, no plastic skin, no over-smoothing.\n\nSoft natural studio lighting inspired by daylight: a large diffused key light with gentle wraparound effect, subtle shadow definition, flattering but honest. No harsh highlights, no dramatic contrast.\n\nBackground is a warm off-white studio backdrop with subtle tonal variation and depth, clean and premium, avoiding flat or artificial cutout separation.\n\nOverall mood is modern, inclusive, confident, and trustworthy — contemporary skincare campaign aesthetic focused on authenticity and human connection. Photorealistic, magazine-quality sharpness.",
+    "tags": []
+  },
+  {
+    "id": 71,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "product-swap",
+    "prompt": "replace the products in the woman in the middle's hand with the attached product",
+    "tags": []
+  },
+  {
+    "id": 72,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "product-swap",
+    "prompt": "replace the products in the women's hands with the attached product in a hyper realistic way. the product is 11 cm long",
+    "tags": []
+  },
+  {
+    "id": 73,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "product-swap",
+    "prompt": "replace the products in the women's hands with the attached product in a seamless hyper realistic way. the product is 11 cm long",
+    "tags": []
+  },
+  {
+    "id": 74,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "beauty-editorial",
+    "prompt": "Ultra-high-end editorial beauty photograph of three mature women (55–70), diverse skin tones and ethnic backgrounds, captured with extreme photorealism — indistinguishable from a real luxury beauty campaign shot on a professional medium-format camera.\n\nNatural human presence and warmth: subtle asymmetry, micro head tilts, relaxed shoulders, real facial tension and release — alive, present, not posed, not frozen. Genuine expressions and interpersonal closeness.\n\nEach woman holds one attached product — three products total in frame, one per subject. Products are held naturally at chest level with anatomically correct, relaxed hands; realistic finger pressure, soft skin compression, natural grip variation. Labels are clearly legible without forced alignment.\n\nSkin realism is critical: visible pores, fine lines, natural sheen, micro highlights, tonal variation, and true subsurface scattering. High-end beauty retouching only — zero plastic skin, zero over-smoothing, zero uncanny perfection.\n\nLighting: elite studio beauty lighting inspired by top-tier fashion editorials — large diffused key light with soft wrap, controlled fill, subtle shadow depth, natural specular highlights on skin and glass. No harsh contrast, no flat light, no artificial glow.\n\nBackground: premium studio backdrop in warm off-white tones with delicate tonal gradients and depth falloff, photographed in-camera (not flat, not synthetic, not cut-out). Subjects are fully integrated into the space.\n\nOverall aesthetic: hyper-real, tactile, editorial, museum-grade beauty photography. Looks like a real photograph shot by a world-class beauty photographer — not AI, not illustrative, not stylized.",
+    "tags": []
+  },
+  {
+    "id": 75,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "product-swap",
+    "prompt": "replace the products in the woman in the middle's hand with the attached product in the most hyper realistic way. super realistic skin textures and pours, flash photography high end beauty photoshoot",
+    "tags": []
+  },
+  {
+    "id": 76,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "beauty-editorial",
+    "prompt": "Ultra-high-end editorial beauty photograph of three mature women (55–70), diverse skin tones and ethnic backgrounds, captured mid-interaction in a spontaneous, playful moment — as if photographed between takes.\n\nThe composition feels candid, not posed: slight lean-ins, uneven head heights, overlapping shoulders, natural laughter and shared energy. One woman tilts her head toward another, another leans forward slightly, creating organic depth and asymmetry. No mirrored poses, no formal spacing.\n\nExpressions are warm and alive — soft smiles, half-laughter, relaxed mouths and eyes, subtle facial motion. The moment feels caught, not constructed.\n\nEach woman holds one attached product — three products total — integrated casually into the scene, not presented. Products are held at slightly different heights and angles, with natural hand variation and relaxed wrists, as if playfully showing them to each other rather than to the camera.\n\nSkin realism is extreme: visible pores, fine lines, micro texture, natural shine and tonal variation. High-end beauty retouching only — skin remains tactile, imperfect, human.\n\nLighting: premium editorial beauty lighting with soft wrap and dimensional shadowing, allowing skin texture and form to breathe. Highlights feel organic, not polished or staged.\n\nBackground: warm off-white studio backdrop with subtle tonal depth, photographed naturally, fully integrating the subjects into the environment — no cut-out feel.\n\nOverall aesthetic: playful luxury. A candid, joyful moment captured with the precision and quality of a world-class beauty campaign. Feels human, alive, and effortlessly premium.",
+    "tags": []
+  },
+  {
+    "id": 77,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "product-swap",
+    "prompt": "replace the products",
+    "tags": []
+  },
+  {
+    "id": 78,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "product-swap",
+    "prompt": "replace the products in the women's hands with the attached product in a seamless hyper realistic way. the product is 11 cm long. super realistic skin textures and pours, flash photography high end beauty photoshoot",
+    "tags": []
+  },
+  {
+    "id": 79,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "make all the women 20 years older, keep the product rendered perfectly exactly as they are",
+    "tags": []
+  },
+  {
+    "id": 80,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "age the women 10 years but keep their skin great for their age",
+    "tags": []
+  },
+  {
+    "id": 81,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "make the woman on the left 10 years older without harming her beauty",
+    "tags": []
+  },
+  {
+    "id": 82,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "turn the woman on the left into a stunning 52 year old female model",
+    "tags": []
+  },
+  {
+    "id": 83,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "turn the woman on the left into a stunning 52 year old female model that resembles the original young ginger woman",
+    "tags": []
+  },
+  {
+    "id": 84,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "turn the woman on the left into a stunning 52 year old female model that resembles the original young ginger woman, great healthy and tight under eye skin",
+    "tags": []
+  },
+  {
+    "id": 85,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "turn the woman on the left into a stunning 52 year old female model that resembles the original young ginger woman, great healthy and tight under eye skin and glossy slightly plumped lips",
+    "tags": []
+  },
+  {
+    "id": 86,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "turn the woman on the right into a stunning 54 year old female model that resembles the original young ginger woman, great healthy and tight under eye skin and glossy slightly plumped lips",
+    "tags": []
+  },
+  {
+    "id": 87,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "turn the woman on the right into a stunning 54 year old female model that resembles the original young blonde woman, great healthy and tight under eye skin and glossy slightly plumped lips",
+    "tags": []
+  },
+  {
+    "id": 88,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "turn the woman in the middle into a stunning 54 year old female model that resembles the original young black woman, great healthy and tight under eye skin and glossy plumped lips",
+    "tags": []
+  },
+  {
+    "id": 89,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "turn the woman in the middle into a stunning 57 year old female model that resembles the original young black woman, great healthy and tight under eye skin and glossy plumped lips",
+    "tags": []
+  },
+  {
+    "id": 90,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "turn the woman in the middle into a stunning 57 year old female model with short afro,  great healthy and tight facial skin and glossy plumped lips",
+    "tags": []
+  },
+  {
+    "id": 91,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "turn the woman in the middle into a stunning 57 year old female model with short afro, great healthy and tight facial skin and glossy plumped lips, make her wink with one eye in a slightly playful way",
+    "tags": []
+  },
+  {
+    "id": 92,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "keep the same identities of all three woman - just change places",
+    "tags": []
+  },
+  {
+    "id": 93,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "keep the same identities of all three woman - just change places, high contrast flash photography beauty photoshoot",
+    "tags": []
+  },
+  {
+    "id": 94,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "keep the same identities of all three woman - just change places, high contrast flash photography beauty photoshoot, hyper realistic skin",
+    "tags": []
+  },
+  {
+    "id": 95,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "keep the same identities of all three woman - just change places, high contrast professional lighting beauty photoshoot, hyper realistic skin",
+    "tags": []
+  },
+  {
+    "id": 96,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "turn the model on the left to a brunette, great healthy and tight facial skin and glossy plumped lips",
+    "tags": []
+  },
+  {
+    "id": 97,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "turn the model on the left to a brunette but keep her the same age, great healthy and tight facial skin and glossy plumped lips",
+    "tags": []
+  },
+  {
+    "id": 98,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "turn the ginger model in the middle to a brunette but keep her the same age, great healthy and tight facial skin and glossy plumped lips",
+    "tags": []
+  },
+  {
+    "id": 99,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "turn the model on the left to a brunette but keep her the same age, great healthy and tight under eye skin and glossy plumped lips, clear studio background",
+    "tags": []
+  },
+  {
+    "id": 100,
+    "date": "2026-02-10",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "turn the model on the left to a natural brunette but keep her the same age, great healthy and tight under eye skin and glossy plumped lips, clear studio background",
+    "tags": []
+  },
+  {
+    "id": 101,
+    "date": "2026-02-11",
+    "model": "nano_banana_2",
+    "category": "beauty-editorial",
+    "prompt": "[SUBJECT]: A high-fidelity, centered studio portrait of Mara Vance, a 34-year-old American woman. She has dimensional honey-blonde hair with darker roots, styled in a lived-in, layered mid-length cut. Her eyes are a unique muted sage-green with high-definition iris detail and sharp catchlights.\n\n[REALISM PARAMETERS]: Render with physical-grade realism. Preserve natural skin textures including visible pores, very fine hydration lines around the eyes, and soft nasolabial folds. No beautification filters. Skin has a dewy, skincare-focused glow with realistic light refraction on the cheekbones.\n\n[COMPOSITION & CAMERA]: Front-facing, eye-level perspective. Shot on 85mm prime lens at f/2.8 for a shallow depth of field. Sharp focus on the eyes. 4K native resolution.\n\n[LIGHTING & ATMOSPHERE]: Soft, directional \"window light\" from camera-left. Natural California morning light palette (warm whites, soft shadows). Background is a blurred, minimalist Silver Lake studio with a hint of a monstera leaf and mid-century wood textures.\n\n[STYLE]: Clean, professional editorial photography. High dynamic range. Raw photo quality. 1:1 aspect ratio.",
+    "tags": []
+  },
+  {
+    "id": 102,
+    "date": "2026-02-11",
+    "model": "nano_banana_2",
+    "category": "ethnicity-change",
+    "prompt": "{\n  \"subject_identity\": {\n    \"name\": \"Mara Vance\",\n    \"age\": 34,\n    \"ethnicity\": \"American, olive-toned skin\",\n    \"features\": {\n      \"eyes\": \"Muted sage-green with amber flecks, hooded lids, sharp iris detail, fine dehydration lines\",\n      \"nose\": \"High-bridge, refined profile, natural rounded tip\",\n      \"mouth\": \"Natural dusty-rose lips, visible vertical texture, subtle right-side smirk\",\n      \"hair\": \"Dimensional honey-blonde with ashy roots, voluminous long layers, well-kept texture\",\n      \"distinguishing_marks\": \"Small silver hoop in right earlobe, tiny faint scar through the tail of the left eyebrow, singular small mole below right ear\"\n    },\n    \"aesthetic\": \"Silver Lake professional hipster, sophisticated and artistic\"\n  },\n  \"scene_setup\": {\n    \"action\": \"Candid behind-the-scenes shot, Mara is sitting in a professional director's makeup chair, one hand gracefully tucking a blonde strand behind her ear\",\n    \"wardrobe\": \"A crisp, high-quality white waffle-weave spa robe with intricate detailed embroidery\",\n    \"accessories\": \"A dainty, thin gold band ring on the ring finger\",\n    \"environment\": \"Professional Silver Lake makeup studio, cluttered background with soft-focus luxury beauty serums and glass jars of brushes\"\n  },\n  \"technical_parameters\": {\n    \"lighting\": \"Soft diffused wrap-around lighting, iconic circular ring-light catchlights reflected in the sage-green eyes, natural California window light\",\n    \"camera_settings\": \"Shot on ARRI Alexa 35, 50mm T2.0 Prime lens, shallow depth of field, sharp focus on the iris and skin texture\",\n    \"style_grade\": \"35mm film aesthetic, subtle natural grain, editorial color palette, raw photo quality\",\n    \"skin_rendering\": \"Hyper-realistic, visible pores, light sun-freckles, dewy hydrated finish, emphasize natural bone structure\"\n  }\n}",
+    "tags": []
+  },
+  {
+    "id": 103,
+    "date": "2026-02-11",
+    "model": "nano_banana_2",
+    "category": "edit",
+    "prompt": "change the hair of the woman in image 1 to the style in the reference image (image 2)",
+    "tags": []
+  },
+  {
+    "id": 104,
+    "date": "2026-02-11",
+    "model": "nano_banana_2",
+    "category": "edit",
+    "prompt": "change the hair of the woman in image 1 to the style in the reference image (image 2), hyper realistic",
+    "tags": []
+  },
+  {
+    "id": 105,
+    "date": "2026-02-11",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "A clean-aesthetic wellness shot of the woman from the reference image in a sun-drenched minimalist kitchen. She is leaning against a marble countertop, holding a tall glass of green juice. She is wearing a high-quality sage green seamless yoga set. Soft morning light coming from a side window, creating a serene and airy atmosphere. Her skin is dewy and \"no-makeup\" look, identical in every detail to the reference images. Focus is sharp on her face and the texture of the stone counter. High-end lifestyle magazine aesthetic, 8k, ultra-realistic.",
+    "tags": []
+  },
+  {
+    "id": 106,
+    "date": "2026-02-11",
+    "model": "nano_banana_2",
+    "category": "structured-prompt",
+    "prompt": "{\n  \"camera_block\": \"A sharp, high-detail smartphone photo.\",\n  \"character_block\": \"the woman in the reference images.\",\n  \"wardrobe_block\": \"Dressed in trendy active wear.\",\n  \"environment_block\": \"a behind the scenes environment, the background is cluttered with soft-focus makeup brushes and luxury beauty products.\",\n  \"action_block\": \"A candid \"behind the scenes\" shot. She is sitting in a professional makeup chair.\",\n  \"lighting_block\": \"ring-light reflection in her eyes (catchlight).\",\n  \"focus_block\": \"Razor-sharp focus on the fine details of her skin texture, including pores and natural surface variation.\",\n  \"rendering_block\": \"Perfect, distortion-free rendering of the product with realistic reflections and material definition.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 107,
+    "date": "2026-02-11",
+    "model": "nano_banana_2",
+    "category": "structured-prompt",
+    "prompt": "{\n  \"camera_block\": \"A sharp, high-detail smartphone photo.\",\n\"character_block\": \"A sophisticated 32-year-old American woman with a hybrid heart-shaped face, featuring high, prominent cheekbones and a soft, approachable jawline. She has piercing, deep-set sage-green eyes with heavy 'bedroom' lids and a small beauty mark on her upper left cheekbone. Her nose has a straight, elegant aristocratic bridge, and her mouth is wide with a full lower lip in a natural dusty-rose. Her hair is a dimensional honey-blonde with ashy roots, styled in a well-kept, voluminous mid-length blunt cut. Her skin is dewy, light-reflective, and healthy, showing hyper-realistic texture and fine, authentic lines around the eyes.\"\n\"wardrobe_block\": \"Dressed in a professional Silver Lake MUA uniform: a heavy-weight, charcoal-grey organic cotton t-shirt worn under a custom black waxed-canvas artist’s apron with multiple functional pockets for brushes. She wears a minimalist black leather tool belt around her waist containing silver metal palettes. Accessories include a stack of thin gold rings on her fingers and a delicate gold permanent-jewelry chain around her left wrist.\"\n  \"environment_block\": \"a behind the scenes environment, the background is cluttered with soft-focus makeup brushes and luxury beauty products.\",\n  \"action_block\": \"A candid \"behind the scenes\" shot. She is sitting in a professional makeup chair.\",\n  \"lighting_block\": \"ring-light reflection in her eyes (catchlight).\",\n  \"focus_block\": \"Razor-sharp focus on the fine details of her skin texture, including pores and natural surface variation.\",\n  \"rendering_block\": \"Perfect, distortion-free rendering of the product with realistic reflections and material definition.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 108,
+    "date": "2026-02-11",
+    "model": "nano_banana_2",
+    "category": "structured-prompt",
+    "prompt": "{\n  \"camera_block\": \"A sharp, high-detail smartphone photo.\",\n\"character_block\": \"A 32-year-old American woman with an approachable, oval facial structure inspired by natural beauty. She has soft, kind features with a slightly rounded jawline and warm olive undertones. Her eyes are muted sage-green with natural, heavy lids and realistic fine lines at the corners. Her nose is straight and natural, and her mouth is full with a soft dusty-rose tone. She has a signature small beauty mark on her upper left cheekbone. Her skin is the primary focus: hyper-realistic, dewy, and showing genuine texture with light sun-freckles across the bridge of the nose.\"\n\n\"wardrobe_block\": \"Her hair is the standout professional feature, inspired by high-fashion editorial styling: a chic, well-kept blonde crop with short, textured layers and a sophisticated tousled volume. She is dressed in a minimalist, high-collared black silk artist’s shirt, layered under a clean, black waxed-canvas apron. A thin gold permanent-jewelry chain is visible on her wrist, and she wears a professional leather tool belt stocked with silver mixing palettes and clean brushes.\"\n  \"environment_block\": \"a behind the scenes environment, the background is cluttered with soft-focus makeup brushes and luxury beauty products.\",\n  \"action_block\": \"A candid \"behind the scenes\" shot. She is sitting in a professional makeup chair.\",\n  \"lighting_block\": \"ring-light reflection in her eyes (catchlight).\",\n  \"focus_block\": \"Razor-sharp focus on the fine details of her skin texture, including pores and natural surface variation.\",\n  \"rendering_block\": \"Perfect, distortion-free rendering of the product with realistic reflections and material definition.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 109,
+    "date": "2026-02-11",
+    "model": "nano_banana_2",
+    "category": "eye-treatment",
+    "prompt": "{\n  \"camera_block\": \"A sharp, high-detail smartphone photo.\",\n\"character_block\": \"A 32-year-old American woman with a grounded, relatable facial structure inspired by the first reference image. She has a slightly wider, soft-rectangular face with a natural, un-sculpted jawline and a soft chin. Her cheekbones are natural and healthy, not hollow or prominent. Her eyes are muted sage-green with heavy, hooded lids and a gentle, experienced gaze; there is subtle puffiness and authentic fine lines beneath the eyes. Her nose is straight with a soft, slightly rounded tip, showing visible pores. Her mouth is wide with a natural dusty-rose color and realistic vertical texture, featuring a soft, non-symmetrical Cupid's bow. Her skin is exceptional—clear, dewy, and radiant from professional care—but maintains hyper-realistic markers like light sun-freckles and a natural, non-filtered texture.\"\n\n\"wardrobe_block\": \"Her hair is the standout professional feature, inspired by high-fashion editorial styling: a chic, well-kept blonde crop with short, textured layers and a sophisticated tousled volume. She is dressed in a minimalist, high-collared black silk artist’s shirt, layered under a clean, black waxed-canvas apron. A thin gold permanent-jewelry chain is visible on her wrist, and she wears a professional leather tool belt stocked with silver mixing palettes and clean brushes.\"\n  \"environment_block\": \"a behind the scenes environment, the background is cluttered with soft-focus makeup brushes and luxury beauty products.\",\n  \"action_block\": \"A candid \"behind the scenes\" shot. She is sitting in a professional makeup chair.\",\n  \"lighting_block\": \"ring-light reflection in her eyes (catchlight).\",\n  \"focus_block\": \"Razor-sharp focus on the fine details of her skin texture, including pores and natural surface variation.\",\n  \"rendering_block\": \"Perfect, distortion-free rendering of the product with realistic reflections and material definition.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 110,
+    "date": "2026-02-11",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "{\n  \"camera_block\": \"A sharp, high-resolution photo shot on a Canon EOS R5 with an 85mm f/1.4 lens at shallow depth of field. The image has the polished yet editorial quality of a professional beauty PR campaign — not overly retouched, but clearly shot with intention.\",\n\n  \"character_block\": \"A 32-year-old American woman, a professional makeup artist photographed for her own brand's PR shoot. She has a slightly wider, soft-rectangular face with a natural, un-sculpted jawline and a soft chin. Her cheekbones have a healthy natural flush, not contoured or hollow. Her eyes are muted sage-green with heavy, hooded lids and a calm, confident gaze — the look of someone completely at ease in front of a camera. There is subtle authentic texture beneath the eyes, with barely-there fine lines. Her nose is straight with a soft, slightly rounded tip showing visible pores. Her skin is her calling card — luminous, dewy, and exceptionally well-cared-for, with a lit-from-within glow that comes from professional skincare. It still reads as real skin: light sun-freckles across the bridge of her nose, natural micro-texture, and visible pores in the T-zone. Her makeup is a masterclass in 'elevated natural': a seamless, skin-like base with strategic dewy highlights on the high points of her face, softly groomed and feathered brows, a warm neutral-toned eyeshadow blended into the crease, individual false lash clusters on the outer corners, and a precise but soft-edged lip in a muted dusty-rose with a satin finish. The makeup is clearly intentional and skillful — this is a woman who does this for a living, wearing her own artistry.\",\n\n  \"wardrobe_block\": \"Her hair is styled in a chic, editorial blonde crop — short textured layers with sophisticated tousled volume, the kind of effortlessly cool cut that signals creative-industry professional. She wears a minimalist high-collared black silk blouse, layered under a clean, matte-black waxed-canvas apron. A thin gold permanent-jewelry chain catches the light on her wrist. A professional leather tool belt sits at her waist, stocked with clean silver mixing palettes and an array of pristine makeup brushes.\",\n\n  \"environment_block\": \"A bright, modern makeup studio during a real working session. The background is a soft-focus tableau of the artist's workspace: rows of luxury beauty products, open palettes with visible pigments, a lighted vanity mirror, scattered high-end brushes in acrylic holders, and a garment rack with a wardrobe bag just visible at the edge of the frame. The space feels curated but lived-in — aspirational yet authentic.\",\n\n  \"action_block\": \"A candid-feeling PR portrait. She is seated in a professional hydraulic makeup chair, turned slightly toward camera with relaxed, open body language. One hand rests naturally on the armrest, the other lightly holds a favorite brush against her chest. Her expression is a subtle, closed-lip smile — warm, self-assured, and approachable. The composition is a medium close-up from the chest up.\",\n\n  \"lighting_block\": \"Professional beauty lighting setup: a large ring light positioned directly in front of her creates a signature circular catchlight reflected in both eyes, producing even, flattering illumination across her face. A secondary soft fill light from the left eliminates harsh shadows. The lighting emphasizes the dewy quality of her skin and creates subtle luminous highlights on her cheekbones and the tip of her nose. The overall light temperature is clean and warm-neutral.\",\n\n  \"focus_block\": \"Razor-sharp critical focus locked on her eyes and the fine details of her skin — individual pores, the texture of her foundation blend, the soft gradient of her eyeshadow, and the satin sheen on her lips are all rendered with tack-sharp clarity. The depth of field falls off gently behind her, rendering the studio environment in a pleasing, creamy bokeh.\",\n\n  \"rendering_block\": \"Hyper-realistic rendering with no AI artifacts. Distortion-free facial geometry with natural asymmetry. Realistic material differentiation: the sheen of silk, the matte texture of waxed canvas, the metallic gleam of gold jewelry, and the translucent luminosity of well-prepped skin. The image should be indistinguishable from an actual professional beauty-industry PR photograph.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 111,
+    "date": "2026-02-11",
+    "model": "nano_banana_2",
+    "category": "eye-treatment",
+    "prompt": "{\n  \"camera_block\": \"Editorial portrait shot on a Canon 85mm f/1.8. Shallow depth of field. The image has the feel of a real beauty-industry PR photo — polished but not retouched to perfection.\",\n\n  \"character_block\": \"A 32-year-old makeup artist, photographed for her own brand. Slightly wide, soft face with a natural jawline. Sage-green hooded eyes with a calm, easy expression. Light freckles across the nose, visible pores, faint under-eye lines — real skin that happens to be very well taken care of. Her makeup is what she'd actually wear for a press photo: a seamless natural base with a dewy finish, groomed brows, a hint of warm shadow in the crease, a few individual lash clusters, and a satin dusty-rose lip. It looks effortless but you can tell a professional did it — because she is one.\",\n\n  \"wardrobe_block\": \"Short textured blonde crop, tousled and cool. Black silk blouse under a matte black canvas apron. A thin gold chain on her wrist. A leather tool belt with brushes and a mixing palette.\",\n\n  \"environment_block\": \"Her real studio, mid-workday. Out-of-focus background showing open palettes, brushes in holders, luxury products on a counter, a lit vanity mirror. It looks used, not staged.\",\n\n  \"action_block\": \"Sitting in a makeup chair, turned slightly toward camera. One hand resting naturally, the other loosely holding a brush. Subtle closed-lip smile. Medium close-up, chest and up.\",\n\n  \"lighting_block\": \"Ring light as key, creating a clean circular catchlight in both eyes. Soft fill from the side. The light is even and flattering but not flat — you can still see dimension in her face. Warm-neutral temperature.\",\n\n  \"focus_block\": \"Sharp focus on her eyes and skin texture. You can see the blend of her foundation and the texture of her lip color. Background falls into soft bokeh.\",\n\n  \"rendering_block\": \"Photorealistic with natural facial asymmetry. No plastic skin, no uncanny smoothness. The image should look like it came from a real photographer's portfolio — something you'd scroll past on Instagram without questioning if it's real.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 112,
+    "date": "2026-02-11",
+    "model": "nano_banana_2",
+    "category": "structured-prompt",
+    "prompt": "{\n  \"camera_block\": \"Editorial portrait shot on a Canon 85mm f/1.8. Shallow depth of field. The feel of a real beauty-industry PR photo — polished but honest.\",\n\n  \"character_block\": \"A 32-year-old working makeup artist, not a model. She has a plain, average face — the kind you wouldn't notice on the street. Slightly wide, soft-rectangular face shape. Her jaw is soft and undefined, not sculpted. She has a bit of fullness under her chin. Her cheeks are round and fleshy, not high-cheekboned. Sage-green hooded eyes that are slightly small for her face, with a relaxed, unbothered expression. A wider nose with a rounded tip and visible pores. Her mouth is average-sized with a slightly uneven Cupid's bow. She is not conventionally beautiful — she's a regular-looking woman who knows how to make skin look incredible. Her skin is her portfolio: clear, healthy, and dewy from professional care, but still real — light freckles, a visible pore or two on the cheek, faint redness around the nose. Her makeup is her own work: a natural base with a wet-skin finish, groomed but not perfect brows, a hint of warm shadow, a few lash clusters, satin dusty-rose lip. Skillful and deliberate, not glamorous.\",\n\n  \"wardrobe_block\": \"Short textured blonde crop, tousled and low-maintenance. Black silk blouse under a matte black canvas apron. A thin gold chain on her wrist. A leather tool belt with brushes and a mixing palette.\",\n\n  \"environment_block\": \"Her real studio, mid-workday. Out-of-focus background showing open palettes, brushes in holders, products on a counter, a lit vanity mirror. Lived-in, not staged.\",\n\n  \"action_block\": \"Sitting in a makeup chair, turned slightly toward camera. One hand resting naturally, the other loosely holding a brush. A small, genuine half-smile — not a model pose. Medium close-up, chest and up.\",\n\n  \"lighting_block\": \"Ring light as key, creating a circular catchlight in both eyes. Soft fill from the side. Even and flattering but not flat. Warm-neutral temperature.\",\n\n  \"focus_block\": \"Sharp focus on her eyes and skin. You can see her foundation blend and lip texture. Background in soft bokeh.\",\n\n  \"rendering_block\": \"Photorealistic with natural asymmetry. She should look like a real person with an average face — not ugly, not beautiful, just normal. If she looks like she could be a model, the image has failed. This is a skilled professional, not a pretty face.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 113,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "{\n  \"camera_block\": \"Shot on iPhone 15 Pro Max, 48MP main camera. Sharp, high-detail smartphone photo with natural micro-contrast and computational sharpness.\",\n  \"character_block\": \"A 47-year-old American woman. Dark brown, slightly wavy hair pulled up in a loose messy updo with soft pieces framing her face. A few natural gray strands at her temples. Fair skin with a warm undertone and a natural pink flush — clear, healthy, and well-cared-for with visible texture, soft crow's feet, and faint smile lines. Oval face with defined cheekbones and a clean jawline. Warm, bright brown almond-shaped eyes with long natural lashes. Naturally full, well-groomed brows. Straight, proportionate nose. Medium-full lips with a natural pink tone. She's attractive and approachable. Her skin is tight and healthy for her age — glowing with minimal makeup.\",\n  \"wardrobe_block\": \"Dressed in trendy activewear — fitted leggings and a sleek zip-up athletic jacket.\",\n  \"environment_block\": \"An open-air professional cycling velodrome with no roof. The track curves behind her, with other cyclists passing in the background, slightly motion-blurred.\",\n  \"action_block\": \"She stands confidently with her arms crossed over her chest, looking directly at camera.\",\n  \"lighting_block\": \"Harsh direct midday sunlight casting crisp shadows on her face, emphasizing her facial structure. Bright highlights catch her cheekbones and the area around her eyes.\",\n  \"focus_block\": \"Razor-sharp focus on her face — skin texture, pores, and natural surface variation are all clearly visible.\",\n  \"rendering_block\": \"Photorealistic smartphone photography. High contrast, high clarity, clean and sharp. No filters, no soft-focus.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 114,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "{\n  \"camera_block\": \"Editorial portrait shot on a Canon 85mm f/1.8. Shallow depth of field. The feel of a real beauty-industry PR photo — professional but not overly produced.\",\n  \"character_block\": \"A 47-year-old American working makeup artist. She has light-medium skin with a warm peachy undertone — clean, well-maintained, and healthy for her age. Her skin is clearly her priority: it has a fresh, healthy quality from consistent professional skincare. She has fine lines around her eyes and mouth that show when she smiles and subtle forehead lines. Her complexion is even-toned and clear, with light natural freckles across her nose and cheeks. No blotchiness, no rough texture. Her face is oval-to-long with a slim, slightly angular jaw. She has green-gray eyes, slightly deep-set, with a kind and knowing expression. Her brows are groomed and natural. Her nose is straight and slightly narrow. Her lips are on the thinner side with a natural rose tone. She reads as a put-together American woman from a coastal city. She's wearing light, skillful makeup: a sheer skin-tint that lets her freckles show through, a soft cream blush on her cheeks, groomed brows with a clear brow gel, and a hydrating nude-pink lip.\",\n  \"wardrobe_block\": \"Dirty-blonde hair with subtle honey highlights, pulled up in a loose topknot — practical but not sloppy. Wispy pieces around her face. She wears a clean dark charcoal cotton t-shirt under a black canvas apron — the apron has faint makeup marks and looks professional and broken-in. A brown leather tool belt at her waist with brushes and a silver mixing palette. Small gold hoop earrings, a thin gold cuff bracelet, and simple stacked gold rings.\",\n  \"environment_block\": \"Her working makeup station, mid-session. Soft-focus background showing open palettes, brushes in holders, neatly arranged products, a ring light visible behind her. Clean and professional — organized but clearly in use.\",\n  \"action_block\": \"Sitting in a makeup chair, relaxed posture, looking at camera with a warm half-smile. Framed from the shoulders up.\",\n  \"lighting_block\": \"Ring light as key, creating a circular catchlight in her eyes. Soft fill from a nearby window. Clean, even light that shows her skin honestly but not harshly. Warm-neutral temperature.\",\n  \"focus_block\": \"Sharp focus on her face. Her freckles, skin quality, fine lines, and makeup should all be clearly visible. Background in soft bokeh.\",\n  \"rendering_block\": \"Photorealistic. She should look like a healthy, well-maintained 47-year-old American woman — someone who ages well because she takes care of herself. Her skin should look healthy and clear. Natural facial asymmetry.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 115,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "{\n  \"camera_block\": \"Portrait photo, Canon 85mm f/1.8, shallow depth of field.\",\n  \"character_block\": \"A 47-year-old American woman, makeup artist. Oval face, slim jaw, green-gray deep-set eyes, natural brows, straight narrow nose, thin lips. Light freckles on her nose and cheeks. Dirty-blonde hair in a loose topknot. Wearing light natural makeup: sheer base, cream blush, clear brow gel, nude-pink lip.\",\n  \"wardrobe_block\": \"Dark charcoal t-shirt under a black canvas apron. Brown leather tool belt with brushes. Gold hoop earrings, gold cuff bracelet.\",\n  \"environment_block\": \"Makeup studio. Palettes, brushes, and products in soft focus behind her.\",\n  \"action_block\": \"Sitting, looking at camera, warm half-smile. Shoulders-up framing.\",\n  \"lighting_block\": \"Ring light with soft window fill. Warm-neutral tone.\",\n  \"focus_block\": \"Sharp focus on face, soft bokeh background.\",\n  \"rendering_block\": \"Realistic portrait photo.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 116,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "replace the woman in image 1 with the woman in image 2",
+    "tags": []
+  },
+  {
+    "id": 117,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "A high-end minimal beauty product photograph of the attached product, standing upright on a glossy white reflective surface.\nThree identical products arranged in depth: one in the center sharply in focus, one in the extreme foreground heavily out of focus (large blurred silhouette), and one in the background softly out of focus.\nSoft pastel pink color palette, clean premium aesthetic.\n\nBright airy studio lighting with gentle diffusion, subtle pink light spill, soft shadows, smooth highlights on the rounded cap.\nUltra shallow depth of field, bokeh blur, cinematic focus falloff.\nMinimal white studio background with a soft gradient, no texture, no clutter.\n\nMacro realism, editorial sharpness on the center product only, high-end commercial product photography, photorealistic, 8k.",
+    "tags": []
+  },
+  {
+    "id": 118,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "structured-prompt",
+    "prompt": "{\n  \"camera_block\": \"A sharp, high-detail smartphone photo.\",\n  \"character_block\": \"the woman in the reference images.\",\n  \"wardrobe_block\": \"Dressed in a professional Silver Lake MUA uniform: a heavy-weight, charcoal-grey organic cotton t-shirt worn under a custom black waxed-canvas artist’s apron with multiple functional pockets for brushes. She wears a minimalist black leather tool belt around her waist containing silver metal palettes. Accessories include a stack of thin gold rings on her fingers and a delicate gold permanent-jewelry chain around her left wrist.\"\n  \"environment_block\": \"a behind the scenes environment, the background is cluttered with soft-focus makeup brushes and luxury beauty products.\",\n  \"action_block\": \"A candid \"behind the scenes\" shot. She is sitting in a professional makeup chair.\",\n  \"lighting_block\": \"ring-light reflection in her eyes (catchlight).\",\n  \"focus_block\": \"Razor-sharp focus on the fine details of her skin texture, including pores and natural surface variation.\",\n  \"rendering_block\": \"Perfect, distortion-free rendering with realistic reflections and material definition.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 119,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "edit",
+    "prompt": "remove the cylinder product and the hand holding it, keep all the rest the same",
+    "tags": []
+  },
+  {
+    "id": 120,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "generate an image based on the reference image, angle: from the side. try to shoot it completely from the side",
+    "tags": []
+  },
+  {
+    "id": 121,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "generate an image based on the reference image, angle: from the side. try to shoot it completely from the side. the hand is a hand of a make up artist, not the model",
+    "tags": []
+  },
+  {
+    "id": 122,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "edit",
+    "prompt": "change only the background to a slick silver gradient studio background, keep the women in the image exactly the same",
+    "tags": []
+  },
+  {
+    "id": 123,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "generate an image inspired by the reference, from the side",
+    "tags": []
+  },
+  {
+    "id": 124,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "edit",
+    "prompt": "change the background to a silver studio background",
+    "tags": []
+  },
+  {
+    "id": 125,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "eye-treatment",
+    "prompt": "generate an image inspired by the reference, from the side. make the hand of the makeup artist use the brush on the under-eye area, silver gradient background",
+    "tags": []
+  },
+  {
+    "id": 126,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "identity-swap",
+    "prompt": "change the identity of the woman in image 1 to the identity of the woman in image 2",
+    "tags": []
+  },
+  {
+    "id": 127,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "change the brush in the makeup artists hand to the attached brush in image 2, keep everything else in the image the same",
+    "tags": []
+  },
+  {
+    "id": 128,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "change the brush in the makeup artists hand to the attached brush in image 2, keep everything else in the image the same. the brush is 11 cm long, make sure it is proportional to the hand holding it",
+    "tags": []
+  },
+  {
+    "id": 129,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "identity-swap",
+    "prompt": "change the identity of the woman in image 1 to the identity of the woman in the other reference images. keep the hand holding the brush and the brush exactly the same",
+    "tags": []
+  },
+  {
+    "id": 130,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "make the woman 46 years old but with great healthy skin for her age, nice and tight. keep all the other elements in the image exactly the same",
+    "tags": []
+  },
+  {
+    "id": 131,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "age the woman 20 years, but with healthy skin for her age, nice and tight. keep all the other elements in the image exactly the same",
+    "tags": []
+  },
+  {
+    "id": 132,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "edit",
+    "prompt": "remove the hair pin and make the model's skin a bit lighter, keep the brush and the hand holding it exactly the same",
+    "tags": []
+  },
+  {
+    "id": 133,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "turn the woman in the image to a 52 year old model inspired by her, but with great healthy skin for her age, nice and tight. keep all the other elements in the image exactly the same",
+    "tags": []
+  },
+  {
+    "id": 134,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "identity-swap",
+    "prompt": "change the identity of the woman in image 1 to the identity of the woman in the other reference image. keep the hand holding the brush and the brush exactly the same",
+    "tags": []
+  },
+  {
+    "id": 135,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "identity-swap",
+    "prompt": "change the identity of the woman in image 1 to the identity of the woman in the other reference image. keep the composition, the hand holding the brush and the brush exactly the same- change only the woman",
+    "tags": []
+  },
+  {
+    "id": 136,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "edit",
+    "prompt": "Change the woman in image 1 to look 56 years old. Her face should show natural signs of maturity — slightly softer jawline, subtle volume loss in the cheeks, natural expression lines around her mouth — but her skin remains exceptionally well-maintained. It looks smooth, firm, and clear with minimal visible wrinkles. She looks like a woman who has invested in professional skincare her entire career. Blend more visible gray strands naturally into her hair color.\"",
+    "tags": []
+  },
+  {
+    "id": 137,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "edit",
+    "prompt": "give her very well groomed natural black hair cut to the shoulders, no loose hairs, all is kept in a very high level of groomingr",
+    "tags": []
+  },
+  {
+    "id": 138,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "edit",
+    "prompt": "give her very well groomed natural blonde hair cut to the shoulders, no loose hairs, all is kept in a very high level of grooming",
+    "tags": []
+  },
+  {
+    "id": 139,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "edit",
+    "prompt": "Change the woman in image 1 to have a sleek, tight updo — all hair pulled back neatly with no loose strands, no wispy pieces, no flyaways. A clean, polished bun or chignon. Every hair in place, smooth and controlled.",
+    "tags": []
+  },
+  {
+    "id": 140,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "edit",
+    "prompt": "Change the woman in image 1 to have a polished, styled-down hairstyle. Her hair is loose but intentionally styled — smooth, sleek, and well-groomed with no flyaways, no frizz, no messy wisps. Think fresh-from-the-salon blowout. Every strand looks deliberate and in place, but the hair is down and flowing",
+    "tags": []
+  },
+  {
+    "id": 141,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "age her to be 34 years old",
+    "tags": []
+  },
+  {
+    "id": 142,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "give her a slight smile and less wrinkles, keep everything else exactly the same, sharp contrast 8K",
+    "tags": []
+  },
+  {
+    "id": 143,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "give her less wrinkles, keep everything else exactly the same, sharp contrast 8K",
+    "tags": []
+  },
+  {
+    "id": 144,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "make her cup size 4 times bigger",
+    "tags": []
+  },
+  {
+    "id": 145,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "make her cup size 70GG",
+    "tags": []
+  },
+  {
+    "id": 146,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "make her cup size 90DD and change her shirt to a black tank top under the current apron",
+    "tags": []
+  },
+  {
+    "id": 147,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "edit",
+    "prompt": "remove the hair pins and keep everything else exactly the same",
+    "tags": []
+  },
+  {
+    "id": 148,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "edit",
+    "prompt": "make her hair tighter with no loose hairs",
+    "tags": []
+  },
+  {
+    "id": 149,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "make her facial skin a bit healthier and better for her age, and make her cup size 80D",
+    "tags": []
+  },
+  {
+    "id": 150,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "make her facial skin a bit healthier and better for her age but real skin texture with visible pores, and make her cup size 80DD",
+    "tags": []
+  },
+  {
+    "id": 151,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "make her facial skin a bit healthier and better for her age but real skin texture with visible pores, and make her cup size 80DD, 8K no oil or shine on her face, hyper realism",
+    "tags": []
+  },
+  {
+    "id": 152,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "make her chin more American, keep all the rest of the image exactly the same, 8K crisp and sharp",
+    "tags": []
+  },
+  {
+    "id": 153,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "Change the woman in image 1 to have refined, clear facial skin with a natural matte finish. Visible realistic skin texture — pores, subtle natural variation — but no blemishes, no redness, no uneven patches. The skin looks healthy and well-cared-for, like a professional skincare routine. Not shiny, not oily, not glossy — a soft, natural, skin-like finish.",
+    "tags": []
+  },
+  {
+    "id": 154,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "make the hand holding the brush much more aesthetic and clean with brighter skin tone",
+    "tags": []
+  },
+  {
+    "id": 155,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "edit",
+    "prompt": "Change the woman in image 1. Significantly improve her facial skin: remove all blemishes, redness, dark spots, and uneven texture. Keep realistic skin detail — visible pores and fine natural texture must remain. The finish should be completely matte and flat, zero shine, zero glow, zero oiliness. The skin should look like she is wearing a high-end mattifying primer. Clear, smooth, and perfected but never plastic or airbrushed.",
+    "tags": []
+  },
+  {
+    "id": 156,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "structured-prompt",
+    "prompt": "{\n  \"camera_block\": \"Shot on iPhone 15 Pro Max, 48MP, portrait mode 2x zoom. Computational sharpness, high micro-contrast, natural smartphone clarity.\",\n  \"character_block\": \"Change the woman in image 1. Improve her facial skin — even out her skin tone, reduce blemishes and redness, but keep all natural skin detail intact. Pores, fine lines, and subtle texture variation must be clearly visible and sharp. The skin should look like she just had a professional facial — clean and healthy but unmistakably real human skin. Matte finish, no shine, no glow. Do NOT smooth or blur the skin. Do NOT make it look filtered or retouched. The skin must have the same level of detail and imperfection as a real iPhone photo taken in good light.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 157,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "make the hand holding the brush much more aesthetic and clean with brighter skin tone' keep everything else in the image exactly the same",
+    "tags": []
+  },
+  {
+    "id": 158,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "edit",
+    "prompt": "remove the hand and the product it holds, keep everything else exactly the same",
+    "tags": []
+  },
+  {
+    "id": 159,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "make the hand holding the brush much more aesthetic and clean with brighter skin tone, keep everything else in the image exactly the same. hyper realistic hand skin texture, visible pores and small imperfections to the hand",
+    "tags": []
+  },
+  {
+    "id": 160,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "make her lips a bit more plumped and a bit more glossy yet still very aesthetic",
+    "tags": []
+  },
+  {
+    "id": 161,
+    "date": "2026-02-12",
+    "model": "nano_banana_2_upscale",
+    "category": "other",
+    "prompt": "(Image reference only)",
+    "tags": []
+  },
+  {
+    "id": 162,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "make her lips a bit more plumped and a bit more glossy yet still very aesthetic and clean",
+    "tags": []
+  },
+  {
+    "id": 163,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "make her lips more distinct, a bit more plumped and a bit more glossy yet still very aesthetic and clean",
+    "tags": []
+  },
+  {
+    "id": 164,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "make her lips more distinct, slightly more plumped and a bit more glossy yet still very aesthetic and clean skin",
+    "tags": []
+  },
+  {
+    "id": 165,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "make her lips more distinct, slightly more plumped and a bit more glossy yet still very aesthetic and clean skin and very very natural",
+    "tags": []
+  },
+  {
+    "id": 166,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "extreme close-up on her lips",
+    "tags": []
+  },
+  {
+    "id": 167,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "frontal view close-up on her lips, keep them as plumped and glossy as in the original image",
+    "tags": []
+  },
+  {
+    "id": 168,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "make her lips more distinct, slightly more plumped and a bit more glossy yet still very aesthetic and clean skin and very very natural. the lips should be spotless yet real",
+    "tags": []
+  },
+  {
+    "id": 169,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "ethnicity-change",
+    "prompt": "make her Scandinavian, keep the glossiness and the way the lips are plumped",
+    "tags": []
+  },
+  {
+    "id": 170,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "edit",
+    "prompt": "remove the product, keep everything else exactly the same",
+    "tags": []
+  },
+  {
+    "id": 171,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "ethnicity-change",
+    "prompt": "make her Scandinavian, keep the glossiness and the way the lips are plumped and the entire composition as is",
+    "tags": []
+  },
+  {
+    "id": 172,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "ethnicity-change",
+    "prompt": "make her Scandinavian, keep the glossiness and the way the lips are plumped and the entire composition as is, ultra realistic skin texture visible pores",
+    "tags": []
+  },
+  {
+    "id": 173,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "product-photography",
+    "prompt": "{\n  \"camera_block\": \"Shot in the same style and quality as the reference photo, but from a top-down angle (bird's eye view). Same depth of field. Slightly brighter overall exposure.\",\n  \"product_block\": \"The attached product only — positioned lying flat on its side, shot from directly above. The product should be centered in the frame with the label clearly visible from the top view. No other BLURR products in the frame.\",\n  \"environment_block\": \"A professional makeup artist's workstation. The product lies on a dark navy towel or cloth surface. Around it in soft focus: scattered makeup brushes, professional beauty products, tools of the trade arranged naturally around the product. The background should feel like a real, busy MUA station — cluttered but authentic, not styled or clean.\",\n  \"lighting_block\": \"Same warm, natural lighting as the reference but slightly brighter and more lifted. Soft directional light creating gentle highlights on the product's metallic surface from above. Warm tone throughout.\",\n  \"focus_block\": \"Sharp focus on the product — the label text, the metallic finish, and the cap detail should all be crisp and readable from the top angle. Background elements fall into natural bokeh.\",\n  \"rendering_block\": \"The product must be rendered with perfect accuracy — no distortion, no warping of text or logo. Realistic reflections on the metallic surface. The image should look like a real behind-the-scenes product photo from above, not a studio packshot.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 174,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "make the woman in image 1 use the attached product on her lips. keep her lips as plumped and as glossy as they already are in the image",
+    "tags": []
+  },
+  {
+    "id": 175,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "make the woman in image 1 use the attached product on her lips. keep her lips as plumped and as glossy as they already are in the image, hyper realistic, perfect render of the attached product",
+    "tags": []
+  },
+  {
+    "id": 176,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "replace only the product in image 1 with the attached product in image 2",
+    "tags": []
+  },
+  {
+    "id": 177,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "brighter and cooler tones, studio grade lighting",
+    "tags": []
+  },
+  {
+    "id": 178,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "product-swap",
+    "prompt": "replace the product in the image with the attached product, label is visible to the camera, keep the woman exactly as is",
+    "tags": []
+  },
+  {
+    "id": 179,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "inspired by image 1 make the makeup-artist in image 2 use the exact brush on the women in image 1 while the woman is holding the bottle exactly like in image 1, cooler brighter tones, studio grade lighting",
+    "tags": []
+  },
+  {
+    "id": 180,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "inspired by image 1 make the makeup-artist in image 2 use the exact brush on the women in image 1 while holding the cylinder bottle exactly like in image 1, cooler brighter tones, studio grade lighting. the makeup-artist is leaning closer to the model while working on her, slight close-up",
+    "tags": []
+  },
+  {
+    "id": 181,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "edit",
+    "prompt": "replace the woman on the left with the woman in image 2, and remove completely the woman on the right of the frame. keep the model in the middle exactly as is and keep her holding the bottle exactly as is",
+    "tags": []
+  },
+  {
+    "id": 182,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "make the blonde makeup artist 10 years younger, keep everything else exactly the same",
+    "tags": []
+  },
+  {
+    "id": 183,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "ethnicity-change",
+    "prompt": "change the models nationality to American, light skin tone, hyper realistic skin, same age. keep all the rest of the image exactly the same",
+    "tags": []
+  },
+  {
+    "id": 184,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "edit",
+    "prompt": "turn her hair into a natural brunette",
+    "tags": []
+  },
+  {
+    "id": 185,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "identity-swap",
+    "prompt": "change the identity of the model in image 1 with the identity of the model in image 2, keep everything else exactly the same, same composition, hyper realistic skin textures",
+    "tags": []
+  },
+  {
+    "id": 186,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "age-edit",
+    "prompt": "make the blonde makeup artist 5 years younger, keep everything else exactly the same, hyper realistic skin texture",
+    "tags": []
+  },
+  {
+    "id": 187,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "eye-treatment",
+    "prompt": "make the model look up slightly, and make sure the brush tip is realistically and gently pressed against her face against the under-eye area",
+    "tags": []
+  },
+  {
+    "id": 188,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "eye-treatment",
+    "prompt": "make the model look slightly to the side, and make sure the brush tip is realistically and gently pressed against her face against the under-eye area",
+    "tags": []
+  },
+  {
+    "id": 189,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "identity-swap",
+    "prompt": "change the identity of the dark haired model in image 1 with the identity of the Japanese model in image 2 - keep the composition and everything else in the image exactly the same, ultra realistic skin textures and pores, behind the scenes studio lighting",
+    "tags": []
+  },
+  {
+    "id": 190,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "identity-swap",
+    "prompt": "change the identity of the blonde haired model in image 1 with the identity of the Japanese model in image 2 - keep the composition and everything else in the image exactly the same, ultra realistic skin textures and pores, behind the scenes studio lighting",
+    "tags": []
+  },
+  {
+    "id": 191,
+    "date": "2026-02-12",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "replace the cylinder bottle in the model's hand with the attached product, hyper realistic label facing the camera",
+    "tags": []
+  },
+  {
+    "id": 192,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "change the brush in the makeup artists hand to the attached brush in image 2, keep everything else in the image the same. the brush is 11 cm long, make sure it is proportional to the hand holding it. the brush in image 1 is too long",
+    "tags": []
+  },
+  {
+    "id": 193,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "change the burgundy sweater to a worn out black t-shirt, but still with style",
+    "tags": []
+  },
+  {
+    "id": 194,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "change the burgundy sweater to a black-wash t-shirt, but still with style",
+    "tags": []
+  },
+  {
+    "id": 195,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "structured-prompt",
+    "prompt": "{\n  \"camera_block\": \"Shot on iPhone 15 Pro Max, 48MP, portrait mode. Sharp smartphone photo with high micro-contrast and computational sharpness. Bright, clean exposure.\",\n  \"character_block\": \"Recreate the scene from image 1 with the following changes: Replace the makeup artist with the woman from image 2. Replace the client with the woman from image 3. Keep the same composition, positioning, and interaction as image 1. The artist holds the cylindrical product near the client's face — no brush, just the product. The product label faces the camera.\",\n  \"wardrobe_block\": \"The artist wears a dark charcoal cotton t-shirt under a black canvas apron with a brown leather tool belt. Gold bracelet on her wrist. The client wears a simple white t-shirt.\",\n  \"environment_block\": \"Same environment as image 1. Professional makeup studio with ring light, palettes, brushes, and products visible in soft focus behind them.\",\n  \"action_block\": \"Same action as image 1 but without the brush. The artist holds only the product near the client's face. The client sits calmly. A candid, natural behind-the-scenes moment.\",\n  \"lighting_block\": \"Same lighting as image 1. Ring light as key, bright and even. Soft natural fill. Warm-neutral temperature.\",\n  \"focus_block\": \"Sharp focus on the product and both faces. Product label crisp and readable. Background in soft bokeh.\",\n  \"rendering_block\": \"Photorealistic. Product text must have zero distortion. Both women look like real people. The image looks like a real behind-the-scenes iPhone photo.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 196,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "edit",
+    "prompt": "Recreate the scene from image 1. The blonde woman from image 2 is the makeup artist — she stands on the left side, wearing a dark charcoal t-shirt, black canvas apron, and brown leather tool belt. The dark-haired woman from image 3 is her client — she sits on the right side wearing a white t-shirt. The artist holds the BLURR product from image 1 near the client's face with one hand. No brush. The product label faces the camera. Behind them: a makeup studio with a ring light, palettes, and brushes in soft focus. Shot on iPhone 15 Pro Max. Bright, sharp, natural lighting. This is a candid behind-the-scenes photo.",
+    "tags": []
+  },
+  {
+    "id": 197,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "structured-prompt",
+    "prompt": "{\n  \"camera_block\": \"Shot on iPhone 15 Pro Max, 48MP, portrait mode. High micro-contrast, computational sharpness, bright clean exposure. The photo looks like a real candid BTS shot from a beauty brand's shoot day.\",\n  \"character_block\": \"The blonde woman from image 1 is the makeup artist. She stands on the left side of the frame, slightly behind and leaning in toward the client. The dark-haired woman from image 2 is the client. She sits in a professional makeup chair on the right side of the frame, relaxed, looking slightly upward. The artist holds the product from image 3 in her right hand, near the client's cheek, with the label facing the camera. Her other hand rests naturally. Both women have a relaxed, warm energy — like they've been chatting and laughing between takes.\",\n  \"wardrobe_block\": \"The artist wears a dark charcoal cotton t-shirt under a black canvas apron with a brown leather tool belt holding brushes and a silver palette. Gold bracelet on her wrist. The client wears a simple white crewneck t-shirt.\",\n  \"environment_block\": \"A professional makeup studio on a shoot day. Behind them in soft focus: a ring light, open makeup palettes, rows of brushes in holders, scattered beauty products on a counter, a vanity mirror with bulb lights. The space is cluttered and lived-in — a real working set, not staged.\",\n  \"lighting_block\": \"Bright, even ring light as key illuminating both faces. Warm natural window light from behind adding depth and a soft backlit edge. Overall exposure is bright and lifted. Warm-neutral temperature throughout.\",\n  \"focus_block\": \"Sharp focus on the product and both women's faces. The product label text must be crisp and fully readable. Background falls into warm, natural bokeh.\",\n  \"rendering_block\": \"The product must be rendered with perfect accuracy — no distortion, no warping of text or logo. Realistic reflections on the metallic surface. Both women must look like real people, not AI-generated. The entire image should be indistinguishable from a real iPhone BTS photo posted on a beauty brand's Instagram.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 198,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "ugc",
+    "prompt": "{\n  \"camera_block\": \"Shot on iPhone 15 Pro Max, 48MP, portrait mode. High micro-contrast, computational sharpness, bright clean exposure. A real candid BTS selfie-style photo.\",\n  \"character_block\": \"The blonde woman from image 1 is the makeup artist, positioned on the right side of the frame. The dark-haired woman from image 2 is the client, positioned on the left side. They are standing very close together, shoulders touching, both facing the camera and smiling warmly — a fun, relaxed BTS moment like two friends posing together between takes. The artist holds the product from image 3 up near the client's face with the label facing camera.\",\n  \"wardrobe_block\": \"The artist wears a dark charcoal cotton t-shirt under a black canvas apron with a brown leather tool belt holding brushes and a silver palette. Gold bracelet on her wrist. The client wears a simple white crewneck t-shirt.\",\n  \"environment_block\": \"A professional makeup studio. No windows visible. Behind them: a ring light, open makeup palettes, rows of brushes in holders, beauty products on a counter, a vanity mirror with bulb lights. Cluttered, real, active workspace.\",\n  \"lighting_block\": \"Ring light as key, bright and even on both faces. Studio lighting only, no natural window light. Warm-neutral temperature. Bright overall exposure.\",\n  \"focus_block\": \"Sharp focus on both faces and the product. Product label crisp and readable. Background in soft bokeh.\",\n  \"rendering_block\": \"The product must be rendered with perfect accuracy — no distortion, no warping of text or logo. Both women must look like real people. The image should look like a real fun BTS iPhone photo that a makeup artist would post on her Instagram stories.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 199,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "make the black model 47 years old but with great healthy skin for her age",
+    "tags": []
+  },
+  {
+    "id": 200,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "ugc",
+    "prompt": "make the image not a selfie, meaning change the hand of the woman with the black hair to a more natural calm position, and make the chest of the black haired woman 2 sizes bigger. make sure she has great healthy skin for her age. keep everything else in the image unchanged",
+    "tags": []
+  },
+  {
+    "id": 201,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "make the black model 57 years old but with great healthy skin for her age, hyper realistic iPhone 15 pro photo,",
+    "tags": []
+  },
+  {
+    "id": 202,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "ugc",
+    "prompt": "{\n  \"camera_block\": \"Shot in the same style and quality as the reference photo. Same depth of field and focus distance. Slightly brighter overall exposure. The photo is taken by a third person standing in front of them, not a selfie.\",\n  \"character_block\": \"The blonde woman from image 1 is the makeup artist, positioned on the right side of the frame. The woman from image 2 is the client, positioned on the left side. They are standing very close together, shoulders touching, both facing the camera and smiling warmly. The artist holds the product from image 3 up between them with the label facing camera. Neither woman is holding a phone or taking a selfie — someone else is photographing them.\",\n  \"wardrobe_block\": \"The artist wears a dark charcoal cotton t-shirt under a black canvas apron with a brown leather tool belt holding brushes and a silver palette. Gold bracelet on her wrist. The client wears a simple white crewneck t-shirt.\",\n  \"environment_block\": \"A professional makeup studio. Behind them: a ring light, open makeup palettes, rows of brushes in holders, beauty products on a counter, a vanity mirror with bulb lights. Cluttered, real, active workspace. No windows visible.\",\n  \"lighting_block\": \"Ring light as key, bright and even on both faces. Studio lighting only. Warm-neutral temperature. Bright overall exposure.\",\n  \"focus_block\": \"Sharp focus on both faces and the product. Product label crisp and readable. Background in soft bokeh.\",\n  \"rendering_block\": \"The product must be rendered with perfect accuracy — no distortion, no warping of text or logo. Both women must look like real people. The image should look like a real BTS photo taken by a photographer on set with an iPhone — not a selfie.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 203,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "ugc",
+    "prompt": "{\n  \"camera_block\": \"Shot on iPhone 15 Pro Max, 48MP. High micro-contrast, computational sharpness, bright clean exposure. The photo is taken by a third person standing in front of them, not a selfie.\",\n  \"character_block\": \"The blonde woman from image 1 is the makeup artist, positioned on the right side of the frame. The woman from image 2 is the client, positioned on the left side. They are standing very close together, shoulders touching, both facing the camera and smiling warmly. The artist holds the product from image 3 up between them with the label facing camera. Neither woman is holding a phone or taking a selfie — someone else is photographing them.\",\n  \"wardrobe_block\": \"The artist wears a dark charcoal cotton t-shirt under a black canvas apron with a brown leather tool belt holding brushes and a silver palette. Gold bracelet on her wrist. The client wears a simple white crewneck t-shirt.\",\n  \"environment_block\": \"A professional makeup studio. Behind them: a ring light, open makeup palettes, rows of brushes in holders, beauty products on a counter, a vanity mirror with bulb lights. Cluttered, real, active workspace. No windows visible.\",\n  \"lighting_block\": \"Ring light as key, bright and even on both faces. Studio lighting only. Warm-neutral temperature. Bright overall exposure.\",\n  \"focus_block\": \"Sharp focus on both faces and the product. Product label crisp and readable. Background in soft bokeh.\",\n  \"rendering_block\": \"The product must be rendered with perfect accuracy — no distortion, no warping of text or logo. Both women must look like real people. The image should look like a real BTS iPhone photo taken by a photographer on set — not a selfie.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 204,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "remake the cylinder product 20% smaller in the blonde woman's hand, keep everything else exactly the same",
+    "tags": []
+  },
+  {
+    "id": 205,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "ugc",
+    "prompt": "improve the quality of the image, render it perfectly and make it more UGC iphone photography, very crisp",
+    "tags": []
+  },
+  {
+    "id": 206,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "replace the bottle in the makeup artist's hand with the cylinder product in image 2, keep everything else exactly the same, perfect render of the product, same hyper realism level",
+    "tags": []
+  },
+  {
+    "id": 207,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "replace the bottle in the makeup artist's hand with the cylinder product in image 2, keep everything else exactly the same",
+    "tags": []
+  },
+  {
+    "id": 208,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "edit",
+    "prompt": "remove the hand with the product",
+    "tags": []
+  },
+  {
+    "id": 209,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "edit",
+    "prompt": "A candid \"behind the scenes\" shot of the woman in the reference images, sitting in a professional makeup chair. She is wearing a white waffle-weave spa robe. Her face is perfectly framed by a ring-light reflection in her eyes (catchlight). One hand is tucking a strand of hair behind her ear, showing a dainty gold ring. The background is cluttered with soft-focus makeup brushes and luxury beauty products. The identity must be an identical match to the reference photos. Lighting is soft, diffused, and flattering, emphasizing her natural bone structure and skin glow. Detailed embroidery on the robe, 35mm film aesthetic.",
+    "tags": []
+  },
+  {
+    "id": 210,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "structured-prompt",
+    "prompt": "{\n  \"camera_block\": \"A sharp, high-detail smartphone photo.\",\n  \"character_block\": \"the woman in the reference image.\",\n  \"wardrobe_block\": \"Dressed in trendy active wear.\",\n  \"environment_block\": \"An open-air professional cycling velodrome with no roof. The track curves behind her, with other cyclists passing in the background, slightly motion-blurred.\",\n  \"action_block\": \"She stands with her arms crossed on her chest.\",\n  \"lighting_block\": \"Harsh direct midday sunlight casts crisp shadows, emphasizing his facial structure and Great facial skin, tight and healthy for her age, with highlights around the eyes.\",\n  \"focus_block\": \"Razor-sharp focus on the product label and the fine details of his skin texture, including pores and natural surface variation.\",\n  \"rendering_block\": \"Perfect, distortion-free rendering of the product with realistic reflections and material definition.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 211,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "a beauty advertisement photograph features a mature Japanese woman in her late fifties, in close-up view, she has radiant skin. the model holds the attached product near her lips. her lips are a bit plumped and glossy, and her black hair frames her face naturally. the background is pure white with clean, minimalistic studio lighting that creates soft, diffused illumination on her features. the composition maintains a premium skincare aesthetic with hyper-realistic detail and editorial quality. professional beauty photography with studio lighting setup and sharp focus on skin texture and product details.",
+    "tags": []
+  },
+  {
+    "id": 212,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "edit",
+    "prompt": "remove the product, keep the woman exactly the same",
+    "tags": []
+  },
+  {
+    "id": 213,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "structured-prompt",
+    "prompt": "make her American{\n  \"camera_block\": \"Shot on iPhone 15 Pro Max, 48MP, ProRAW with Smart HDR 4. Aggressive computational sharpening, high micro-contrast, punchy colors, slightly oversharpened in the way only smartphones do. Deep blacks, bright highlights, strong tonal separation. The crisp, contrasty, slightly digital look that is unique to iPhone photography.\",\n  \"character_block\": \"Take the woman from image 1 and generate a clean headshot. She looks directly at the camera with a calm, confident expression. Her hands are not visible in the frame. No product. Her skin is healthy, clear, and well-cared-for — even tone, smooth but with visible pores and natural texture. This is beauty-campaign-ready skin. Close-up framing on her face and shoulders only.\",\n  \"environment_block\": \"Pure white background. Clean, minimalistic. Nothing else in the frame.\",\n  \"lighting_block\": \"Clean studio lighting, soft and diffused, illuminating her features evenly. Bright, premium, editorial. The light shows every detail of her skin texture without harsh shadows.\",\n  \"focus_block\": \"Razor-sharp focus on her face. Visible pores and natural skin texture but no blemishes, no redness, no rough patches. The skin reads as real but at its best. Hyper-realistic detail.\",\n  \"rendering_block\": \"Professional beauty photography with editorial quality. Her skin should look like the skin you see in a high-end skincare ad — real and textured but healthy, clear, and radiant. Not filtered, not airbrushed, just genuinely good skin. This is a clean reference headshot — no props, no products, no distractions. Just her face.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 214,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "eye-treatment",
+    "prompt": "{\n  \"camera_block\": \"Shot on Canon EOS R5, 85mm f/1.4 lens, shallow depth of field. High-resolution editorial beauty photography. Sharp, detailed, with natural optical rendering — no computational processing, no digital oversharpening. The organic, analog quality of a real camera sensor.\",\n  \"character_block\": \"The woman from image 1 framed from the chest up. She has a big, genuine, natural smile — teeth showing, joyful energy. Her head is tilted slightly and she is looking off to one side, not directly at camera. She holds the product from image 2 up next to her face, near her eye level, with the label facing camera. Her grip is relaxed and natural — fingers loosely wrapped around the product, not stiff or posed. Her skin is healthy, clear, and well-cared-for — even tone, smooth but with visible pores and natural texture. The under-eye area is smooth and healthy with minimal lines. Her skin looks youthful and firm for her age — no wrinkles, no sagging, no deep lines anywhere on her face. Her entire head, her hand, and the full product must be fully visible within the frame — nothing cropped or cut off. Comfortable breathing room above her head and on all sides.\",\n  \"environment_block\": \"Clean, bright, light gray-white background. Soft, minimal, nothing distracting. Airy and open. No lighting equipment visible in the frame.\",\n  \"lighting_block\": \"Professional studio beauty lighting — the kind used in real skincare brand campaigns. Bright, clean, and flattering with gentle dimension on her face. Slightly more contrast than typical beauty lighting — enough to give her face real depth and make the skin texture pop. No harsh shadows but not flat either. No lighting equipment or modifiers visible in the shot.\",\n  \"focus_block\": \"Razor-sharp focus on her face and the product. Visible pores and natural skin texture but no blemishes, no redness, no rough patches. The skin reads as real but at its best. The product label must be crisp and fully readable. Hyper-realistic detail. Background in smooth, creamy optical bokeh.\",\n  \"rendering_block\": \"The product must be rendered with perfect accuracy — no distortion, no warping of text or logo. Realistic metallic reflections on the product surface. Professional beauty photography with editorial quality. Rich tonal range with punchy midtones. Her skin should look like the skin you see in a high-end skincare ad — real and textured but healthy, clear, and radiant. The pose must feel spontaneous and fun — like a candid moment during a real photoshoot. Zero retouching. Zero AI smoothing.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 215,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "make the jar product 20% smaller in a natural realistic way, keep everything else exactly the same",
+    "tags": []
+  },
+  {
+    "id": 216,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "identity-swap",
+    "prompt": "change the identity of the woman in image 1 with the identity of the woman in image 2",
+    "tags": []
+  },
+  {
+    "id": 217,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "identity-swap",
+    "prompt": "change the identity of the woman in image 1 with the identity of the woman in image 2, Her head is tilted slightly and she is looking off to one side, not directly at camera, keep the product in her hands perfectly rendered",
+    "tags": []
+  },
+  {
+    "id": 218,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "identity-swap",
+    "prompt": "change the identity of the model in image 1 with the identity of the model in image 2, keep everything else exactly the same, same composition\n\"camera_block\": \"Shot on iPhone 15 Pro Max, 48MP, ProRAW with Smart HDR 4. Aggressive computational sharpening, high micro-contrast, punchy colors, slightly oversharpened in the way only smartphones do. Deep blacks, bright highlights, strong tonal separation. The crisp, contrasty, slightly digital look that is unique to iPhone photography. Portrait 4:5 aspect ratio.\",",
+    "tags": []
+  },
+  {
+    "id": 219,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "structured-prompt",
+    "prompt": "\"camera_block\": \"Shot on iPhone 15 Pro Max, 48MP, ProRAW with Smart HDR 4. Aggressive computational sharpening, high micro-contrast, punchy colors, slightly oversharpened in the way only smartphones do. Deep blacks, bright highlights, strong tonal separation. The crisp, contrasty, slightly digital look that is unique to iPhone photography. Portrait 4:5 aspect ratio.\",",
+    "tags": []
+  },
+  {
+    "id": 220,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "identity-swap",
+    "prompt": "change the identity of the woman in image 1 with the identity of the woman in image 2, Her head is tilted slightly and she is looking off to one side, not directly at camera",
+    "tags": []
+  },
+  {
+    "id": 221,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "identity-swap",
+    "prompt": "change the identity of the woman in image 1 with the identity of the woman in image 2, Her head is tilted slightly and she is looking  directly at camera holding the jar with both hands",
+    "tags": []
+  },
+  {
+    "id": 222,
+    "date": "2026-02-15",
+    "model": "nano_banana_2",
+    "category": "identity-swap",
+    "prompt": "change the identity of the woman in image 1 with the identity of the woman in image 2, Her head is tilted slightly and she is looking  directly at camera holding the jar with both hands making a heart shape",
+    "tags": []
+  },
+  {
+    "id": 223,
+    "date": "2026-02-17",
+    "model": "nano_banana_2",
+    "category": "product-swap",
+    "prompt": "replace the product in image 1 with the attached product in image 2 in a seamless natural and realistic way. in image one the tip of the product is wrong, change it to the tip of the product in image 2",
+    "tags": []
+  },
+  {
+    "id": 224,
+    "date": "2026-02-17",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "Ultra realistic beauty macro close-up of a mature plus size dark African-American woman’s lower face focusing on extremely glossy, high-shine lips and natural skin texture, high-end skincare editorial photography.\nThe shot is tightly cropped showing the nose, upper lip, and mouth area, with visible pores and realistic skin texture.\nLips are slightly parted and heavily coated in lip gloss, creating a thick wet-look finish with strong specular highlights, reflective shine, and a smooth glass-like surface.\n\nThe attached product is held close to the mouth, positioned vertically, with its applicator tip gently touching the center of the lower lip.\n\nLighting is strong natural sunlight with crisp highlights and defined shadows across the face, warm skin tones, clean neutral background.\nShallow depth of field, extreme detail, editorial beauty campaign aesthetic, photorealistic, high resolution, clean retouching while preserving texture.",
+    "tags": []
+  },
+  {
+    "id": 225,
+    "date": "2026-02-17",
+    "model": "nano_banana_2",
+    "category": "product-swap",
+    "prompt": "Replace the product in the woman's hand with the product from image 2. The round metallic ball applicator tip must point downward toward her lips. The label and body of the product point upward, away from her face. The product orientation must exactly match image 2 but flipped vertically — applicator tip at the bottom, body at the top.",
+    "tags": []
+  },
+  {
+    "id": 226,
+    "date": "2026-02-17",
+    "model": "nano_banana_2",
+    "category": "product-photography",
+    "prompt": "create an amazing product photo of the attached product inspired by the reference image 1",
+    "tags": []
+  },
+  {
+    "id": 227,
+    "date": "2026-02-17",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "High-end commercial product photography of the attached product on a clean white gradient background.\nThe attached product is a tall metallic silver cylindrical skincare bottle with a thin purple band near the top, bold vertical black typography on the label, label perfectly sharp and readable.\nThe product is shot straight-on with a slight hero perspective (subtle top plane visible), centered and filling most of the frame.\nTo the right of the bottle, an elegant, controlled smear of the actual eye cream formula — a thick, opaque, salmon-orange gel-cream with a wet glossy surface. The color is a warm peachy-orange, not pink, not peach — distinctly orange-toned. The texture is dense and rich, not translucent or see-through. Small glossy highlights catch the light on its wet surface. The smear should look intentional, premium, and sculpted with a palette knife — not messy, not splattered. Placed behind and slightly to the right side of the bottle, with clean edges and realistic shine.\nStrong directional studio lighting creates a crisp soft-edged shadow cast to the right/back, premium packshot style.\nUltra clean retouching, photorealistic, high resolution, sharp edges, metallic reflections on the bottle, minimal composition, luxury skincare advertising, no props, no clutter.",
+    "tags": []
+  },
+  {
+    "id": 228,
+    "date": "2026-02-17",
+    "model": "nano_banana_2",
+    "category": "product-swap",
+    "prompt": "replace the product in image 1 with the attached product in image 2. make no changes to the product - but make sure it is as realistic as the base image",
+    "tags": []
+  },
+  {
+    "id": 229,
+    "date": "2026-02-18",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "Ultra realistic beauty photo of a mature plus size dark African-American woman, framed from the mid-chest up. She has extremely glossy, high-shine lips with a thick wet-look finish. She holds the attached product vertically near her lips with its applicator tip gently touching her lower lip. The label faces the camera. Only the small applicator tip is shiny chrome — the rest of the product body is matte, not shiny.\nStrong natural sunlight with crisp highlights and defined shadows across the face, warm skin tones, clean neutral background.\nVisible pores and realistic skin texture. Shallow depth of field, extreme detail, editorial beauty campaign aesthetic, photorealistic, high resolution, clean retouching while preserving texture.",
+    "tags": []
+  },
+  {
+    "id": 230,
+    "date": "2026-02-18",
+    "model": "nano_banana_2",
+    "category": "product-swap",
+    "prompt": "replace the product in image 1 with the attached product in image 2 in a seamless natural and realistic way",
+    "tags": []
+  },
+  {
+    "id": 231,
+    "date": "2026-02-18",
+    "model": "nano_banana_2",
+    "category": "product-swap",
+    "prompt": "replace the product in image 1 with the attached product in image 2 in a seamless natural and realistic way, The label faces the camera",
+    "tags": []
+  },
+  {
+    "id": 232,
+    "date": "2026-02-18",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "replace the selected part of the product in the image with the same part of the product in the attached image in a realistic way",
+    "tags": []
+  },
+  {
+    "id": 233,
+    "date": "2026-02-18",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "Ultra realistic beauty macro close-up of a mature plus size dark African-American woman's lower face focusing on extremely glossy, high-shine lips and natural skin texture, high-end skincare editorial photography.\nThe shot is tightly cropped showing the nose, upper lip, and mouth area, with visible pores and realistic skin texture.\nLips are slightly parted and heavily coated in lip gloss, creating a thick wet-look finish with strong specular highlights, reflective shine, and a smooth glass-like surface.\nThe woman's hand enters the frame from below, holding the attached product vertically. The product is a small silver metallic tube. It must be held with the BODY AND LABEL at the top, and the round metallic ball applicator tip at the BOTTOM, pointing downward toward her lips. The applicator tip — a small chrome sphere — gently touches the center of her lower lip. The label text on the upper portion of the tube faces the camera and is readable. This is the correct and only orientation — the applicator ball is always at the bottom, the cap and body are always at the top.\nLighting is strong natural sunlight with crisp highlights and defined shadows across the face, warm skin tones, clean neutral background.\nShallow depth of field, extreme detail, editorial beauty campaign aesthetic, photorealistic, high resolution, clean retouching while preserving texture.",
+    "tags": []
+  },
+  {
+    "id": 234,
+    "date": "2026-02-18",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "replace only the product in image 1 with the attached product in image 2 in a seamless natural and realistic way, The label faces the camera",
+    "tags": []
+  },
+  {
+    "id": 235,
+    "date": "2026-02-18",
+    "model": "nano_banana_2",
+    "category": "other",
+    "prompt": "replace only the product in image 1 with the attached product in image 2 in a seamless natural and realistic way, The label faces the camera and is rendered perfectly. the tip is the most important part that needs to match the attached product in image 2",
+    "tags": []
+  },
+  {
+    "id": 236,
+    "date": "2026-02-18",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "Premium bathroom lifestyle product photography featuring the attached product placed on the edge of a glossy white ceramic sink.\nThe attached product is a metallic silver cosmetic jar with subtle holographic reflections, a thin purple accent band, and bold black typography on the label, label facing camera and readable.\nThe jar sits naturally on the sink corner, with clean reflections on the ceramic surface.\n\nBackground shows a modern bathroom setting with soft blue wall tiles and a chrome faucet, slightly out of focus (shallow depth of field).\nBright natural sunlight streams in from the side, creating crisp highlights and soft realistic shadows across the sink and product.\nClean minimal spa aesthetic, photorealistic, ultra detailed, high resolution, luxury skincare advertising style, premium lifestyle realism.",
+    "tags": []
+  },
+  {
+    "id": 237,
+    "date": "2026-02-18",
+    "model": "nano_banana_2",
+    "category": "product-photography",
+    "prompt": "Premium studio product photography of two units of the attached product stacked vertically (one jar on top of the other), placed on a thin transparent glass shelf.\nThe glass shelf is seen at a slight diagonal angle, with visible thickness and subtle green edge tint, clean reflections and refraction.\nThe attached product is a metallic silver cosmetic jar with a thin purple accent band around the lid area and bold black typography on the label, label sharp and readable.\n\nBackground is a smooth dreamy gradient with warm peach/orange tones on the left blending into cool sky-blue tones on the right, creating a premium futuristic beauty aesthetic.\nLighting is controlled studio lighting with color contrast (warm key light from left, cool fill from right), producing soft specular highlights and subtle rainbow reflections on the metallic packaging.\nCrisp focus on the products, shallow depth of field, ultra realistic, photorealistic, high resolution, luxury skincare advertising style, clean editorial retouching, minimal composition.",
+    "tags": []
+  },
+  {
+    "id": 238,
+    "date": "2026-02-18",
+    "model": "nano_banana_2",
+    "category": "lips",
+    "prompt": "Premium studio product photography of the attached product standing upright, centered composition, luxury skincare advertising style.\nThe attached product is a tall metallic silver cylindrical bottle with a thin purple band near the top, label facing camera, typography perfectly sharp and readable, subtle metallic reflections and clean specular highlights.\nProduct is placed on a glossy reflective surface creating a soft mirror reflection beneath it, clean and symmetrical.\n\nBackground is a smooth dreamy pastel gradient (soft lavender, pale pink, cool mint, and light blue tones), airy and futuristic, high-end beauty campaign aesthetic.\nLighting is soft and diffused with a premium studio look, gentle glow, clean shadow control, high dynamic range, ultra high resolution, photorealistic, commercial retouching, minimal composition.",
+    "tags": []
+  },
+  {
+    "id": 239,
+    "date": "2026-02-18",
+    "model": "nano_banana_2",
+    "category": "product-photography",
+    "prompt": "{\n  \"camera_block\": \"Shot in the same style, angle, and quality as the reference photo. Same depth of field and focus distance. Slightly brighter overall exposure.\",\n  \"product_block\": \"The attached product only — positioned exactly as the products appear in the reference image. Same angle, same placement on the surface. No other BLURR products in the frame.\",\n  \"environment_block\": \"A professional makeup artist's workstation. The product sits on a dark navy towel or cloth surface. Behind it in soft focus: scattered makeup brushes, professional beauty products, tools of the trade. The background should feel like a real, busy MUA station — cluttered but authentic, not styled or clean.\",\n  \"lighting_block\": \"Same warm, natural lighting as the reference but slightly brighter and more lifted. Soft directional light creating gentle highlights on the product's metallic surface. Warm tone throughout.\",\n  \"focus_block\": \"Sharp focus on the product — the label text, the metallic finish, and the cap detail should all be crisp and readable. Background falls into natural bokeh.\",\n  \"rendering_block\": \"The product must be rendered with perfect accuracy — no distortion, no warping of text or logo. Realistic reflections on the metallic surface. The image should look like a real behind-the-scenes product photo, not a studio packshot.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 240,
+    "date": "2026-02-19",
+    "model": "nano_banana_2",
+    "category": "eye-treatment",
+    "prompt": "The skin under her eye looks naturally tired and unretouched — visible fine lines, real texture, puffiness, natural shadowing in the tear trough. Heavy, pronounced eye bag with significant volume and shadow beneath it — the kind of deep, structural puffiness that casts its own shadow downward. Not just tired skin, a real visible pouch. This is raw, unfiltered skin with no smoothing and no correction. Real pores, real creasing",
+    "tags": []
+  },
+  {
+    "id": 241,
+    "date": "2026-02-19",
+    "model": "nano_banana_2",
+    "category": "eye-treatment",
+    "prompt": "create a distinct eye bag in the under-eye area, hyper realistic",
+    "tags": []
+  },
+  {
+    "id": 242,
+    "date": "2026-02-19",
+    "model": "nano_banana_2",
+    "category": "eye-treatment",
+    "prompt": "create a distinct eye bag in the under-eye area, hyper realistic, like in the reference photo in image 2",
+    "tags": []
+  },
+  {
+    "id": 243,
+    "date": "2026-03-01",
+    "model": "nano_banana_2",
+    "category": "product-photography",
+    "prompt": "{\n  \"camera_block\": \"High-end product photography, 100mm macro lens, f/8 aperture for maximum sharpness. Clean, commercial e-commerce style. Eye-level angle, straight on, centered in frame.\",\n  \"product_block\": \"The attached product standing perfectly upright, dead center in the frame. The product label faces camera, crisp and fully readable. A small, sharp contact shadow directly at the base of the product where it meets the surface.\",\n  \"environment_block\": \"Pure white seamless background. The surface is a solid white acrylic or white matte tabletop — flat, clean, consistent white with no visible gradient or darkening toward the edges. The background behind the product is the same pure white, with no horizon line visible. The white is even and uniform throughout the entire frame.\",\n  \"lighting_block\": \"Bright, even studio lighting from both sides and above using large softboxes. Virtually shadowless except for a tight contact shadow at the product base. Neutral-white color temperature. No gradient, no falloff, no vignetting. The surface reads as pure flat white in all areas.\",\n  \"focus_block\": \"Deep depth of field — the entire product is in razor-sharp focus from front to back. No bokeh, no blur. Every surface detail, texture, and label element is crisp.\",\n  \"rendering_block\": \"The product must be rendered with perfect accuracy — no distortion, no warping of text or logo. Clean white-background product photo as seen on premium e-commerce sites. The white must stay true white across the entire image — no gray tones, no darkening, no vignette. Zero AI artifacts.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 244,
+    "date": "2026-03-01",
+    "model": "nano_banana_2",
+    "category": "product-photography",
+    "prompt": "Premium studio product photography of the attached product standing upright, centered composition, luxury skincare advertising style.\nThe attached product's label is facing the camera, typography perfectly sharp and readable, subtle metallic reflections and clean specular highlights.\nProduct is placed on a clean white surface with a soft, minimal contact shadow directly beneath it — grounded but light.\nBackground is a pure, clean white — simple, classic, nothing distracting.\nLighting is soft and diffused with a premium studio look, gentle glow, clean shadow control, high dynamic range, ultra high resolution, photorealistic, commercial retouching, minimal composition.",
+    "tags": []
+  },
+  {
+    "id": 245,
+    "date": "2026-03-02",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "{\n  \"camera_block\": \"Shot on iPhone front-facing selfie camera. Lower resolution, softer detail, slight grain — the unmistakable look of a front camera held at arm's length. Not sharp, not professional. The kind of photo someone takes of themselves in the bathroom to send to a friend. 4:5 aspect ratio.\",\n  \"subject_block\": \"A woman aged 48-55 from image 1, photographed from the chest up, facing the camera straight on. She is holding the phone in one hand, taking a selfie. Her other hand gently touches the side of her face near the treated eye, drawing attention to the difference. Her expression is genuine surprise — eyebrows slightly raised, mouth slightly open, like she can't believe what she's seeing. Full face visible, not cropped tight.\",\n  \"skin_split_block\": \"Her RIGHT under-eye area shows her natural, untreated skin — visible puffiness, a pronounced eye bag with real volume and shadow, fine lines, slight dark circles, tired and unretouched. Her LEFT under-eye area looks visibly tightened and lifted — the bag is dramatically reduced, the skin appears firmer and smoother, the shadow is gone, the area looks years younger. The contrast between the two sides is striking and immediately noticeable. Both sides still look like real human skin — pores visible, natural texture — the treated side just looks genuinely better, not filtered or AI-smoothed.\",\n  \"environment_block\": \"A real home bathroom. Visible in the background: a mirror, bathroom tiles, maybe a shelf with personal items. Not styled, not pristine — lived-in and authentic. Slightly messy in the way real bathrooms are.\",\n  \"lighting_block\": \"Warm indoor bathroom lighting — overhead vanity light or ceiling fixture, slightly yellowish. Not even, not flattering — the kind of lighting that actually makes skin imperfections more visible. A hint of natural light from a window if present. Mixed color temperature typical of real bathrooms.\",\n  \"product_block\": \"The attached product from image 2 is visible somewhere in the frame — either held in her other hand, sitting on the bathroom counter, or tucked between her fingers. It should feel naturally placed, not staged. Label partially visible.\",\n  \"rendering_block\": \"This must look like a real selfie taken by a real woman in her bathroom — not a photoshoot, not AI-generated. Slight front-camera softness, natural skin texture on both sides, imperfect framing, the phone partially visible. The split effect between treated and untreated must be dramatic enough to stop someone scrolling. Zero retouching. Zero beauty filter.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 246,
+    "date": "2026-03-02",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "make the woman Japanese, keep it UGC vibe",
+    "tags": []
+  },
+  {
+    "id": 247,
+    "date": "2026-03-02",
+    "model": "nano_banana_flash",
+    "category": "lips",
+    "prompt": "make the lips in the bottom part look a bit more aesthetic and plumped, keep the rest the same",
+    "tags": []
+  },
+  {
+    "id": 248,
+    "date": "2026-03-02",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "make the woman black American, keep it UGC vibe, and make the lips in the bottom part look a bit more aesthetic and plumped",
+    "tags": []
+  },
+  {
+    "id": 249,
+    "date": "2026-03-02",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "make the woman an attractive black American, keep it UGC vibe, and make the lips in the bottom part look a bit more aesthetic and plumped",
+    "tags": []
+  },
+  {
+    "id": 250,
+    "date": "2026-03-02",
+    "model": "nano_banana_2",
+    "category": "ugc",
+    "prompt": "turn the woman into an attractive black American, keep it UGC vibe, and make the lips in the bottom part look a bit more aesthetic and plumped",
+    "tags": []
+  },
+  {
+    "id": 251,
+    "date": "2026-03-02",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "turn the woman into an attractive black American with completely different facial features, keep it UGC vibe, and make the lips in the bottom part look a bit more aesthetic and plumped",
+    "tags": []
+  },
+  {
+    "id": 252,
+    "date": "2026-03-02",
+    "model": "nano_banana_flash",
+    "category": "other",
+    "prompt": "make her 49 years old",
+    "tags": []
+  },
+  {
+    "id": 253,
+    "date": "2026-03-02",
+    "model": "nano_banana_flash",
+    "category": "product-photography",
+    "prompt": "Premium studio product photography of two units of the attached product standing next to each other, placed on a thin transparent glass shelf.\nThe glass shelf is seen at a slight diagonal angle, with visible thickness and subtle green edge tint, clean reflections and refraction. The label of the attached product is sharp and readable.\n\nBackground is a smooth dreamy gradient with warm peach/orange tones on the left blending into cool sky-blue tones on the right, creating a premium futuristic beauty aesthetic.\nLighting is controlled studio lighting with color contrast (warm key light from left, cool fill from right), producing soft specular highlights and subtle rainbow reflections on the metallic packaging.\nCrisp focus on the products, shallow depth of field, ultra realistic, photorealistic, high resolution, luxury skincare advertising style, clean editorial retouching, minimal composition.",
+    "tags": []
+  },
+  {
+    "id": 254,
+    "date": "2026-03-02",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "{\n  \"camera_block\": \"Shot on iPhone front-facing selfie camera. Lower resolution, softer detail, slight grain — the unmistakable look of a front camera selfie. The phone is NOT visible in the frame — the woman is looking directly into the front camera lens, eye contact with the viewer. No phone, no hand holding a phone in frame. 4:5 aspect ratio.\",\n  \"character_block\": A Black American woman aged 51 with warm cinnamon-brown skin. Diamond-shaped face with extremely high, sharp cheekbones that cast shadows. Large, wide-open almond eyes with bright white sclera, dark irises, naturally long lashes. Long, narrow nose with a defined bridge and slim tip. Medium-width lips, the upper lip slightly fuller than the lower, with a strong cupid's bow. Bold, thick natural eyebrows. Long individual locs in a high crown, forehead fully exposed. Tall, lean, long neck. Olive green off-shoulder casual top.\",\n  \"action_block\": \"She is looking directly at the camera with a natural, relaxed expression — mouth slightly open, eyebrows raised just a little, like she's mid-sentence showing a friend what just happened. Not a posed smile, not frozen — a real human moment. One hand holds the attached product from image 1 (a small jar) near her forehead on the treated side — showing off the result next to the product that caused it. The product label must be legible and NOT mirrored or reversed — text reads correctly left to right. Full face visible, not cropped tight.\",\n  \"skin_split_block\": \"CRITICAL: The two halves of her forehead must look clearly DIFFERENT from each other. IMPORTANT: The skin TONE and COLOR must remain IDENTICAL on both sides — the product does NOT lighten or bleach the skin. The only difference is TEXTURE and WRINKLES. The half of the forehead on the SAME SIDE as the product she is holding has smoother, tighter skin — forehead lines and the frown line between the brows on that side are visibly reduced, the surface appears firmer with fewer creases. Same exact skin tone, same color, just fewer wrinkles. A subtle dewiness on this side. The half of the forehead on the OPPOSITE SIDE from the product shows her natural, untreated skin — visible horizontal forehead lines, a frown line between the brows, natural creasing appropriate for her age, drier and more matte. Same skin tone as the other side. No bruising, no discoloration, no dark marks, no lightening. The viewer must immediately see the difference in WRINKLES between the two halves — not in color.\",\n  \"environment_block\": \"A bright kitchen with morning sunlight coming through a window. Not a bathroom at all. Kitchen counter with a coffee mug, fruit bowl partially visible in the background. Warm, homey, completely different setting from any bathroom.\",\n  \"lighting_block\": \"Warm indoor lighting that renders dark skin tones accurately and richly — no washed-out look, no ashy cast. A mix of overhead light and natural warmth. Clean and revealing enough to show skin texture and the difference between the two forehead halves.\",\n  \"rendering_block\": \"This must look like a real selfie taken by a real woman at home — not a photoshoot, not AI-generated. Slight front-camera softness, natural skin texture on both sides, imperfect framing. No phone visible in the image. The split effect between treated and untreated forehead must be noticeable enough to stop someone scrolling but believable as a real result. Zero retouching. Zero beauty filter.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 255,
+    "date": "2026-03-08",
+    "model": "nano_banana_2",
+    "category": "eye-treatment",
+    "prompt": "{\n  \"camera_block\": \"Shot on iPhone 15 Pro Max, 48MP, ProRAW with Smart HDR 4. Aggressive computational sharpening, high micro-contrast, punchy colors, slightly oversharpened in the way only smartphones do. Deep blacks, bright highlights, strong tonal separation. The crisp, contrasty, slightly digital look that is unique to iPhone photography. Portrait 4:5 aspect ratio.\",\n  \"character_block\": \"The woman from image 1 framed from the mid-chest up, facing the camera straight on. She looks directly at camera with a calm, neutral expression — mouth slightly open, relaxed. She holds the attached product from image 2 vertically near her lower lip with its applicator tip gently touching the center of her lower lip, Her head is tilted slightly and she is looking  directly at camera. The label faces the camera. Her lips are glossy and plump with a wet-look shine. She wears a white button-up shirt, loosely open at the collar. Her skin must look raw and unfiltered — visible pores, real texture, real detail. Not bad skin, just real skin. Her skin is firm, tight, and plump — like a woman in her early thirties. The under-eye area is completely smooth with zero lines or creasing. No crow's feet, no forehead lines, no nasolabial folds. Her skin's texture is real but her skin's age reads young. Her entire head, her hand, and the full product must be fully visible within the frame — nothing cropped or cut off. Comfortable breathing room on all sides.\",\n  \"environment_block\": \"Clean, soft, light gray background. Minimal and quiet. Nothing else in the frame.\",\n  \"lighting_block\": \"Soft, even studio lighting. Bright and clean, illuminating her face evenly with gentle dimension. Not dramatic, not flat. Warm-neutral temperature.\",\n  \"focus_block\": \"Razor-sharp focus on her face and the product. Visible skin pores, fine facial hair, individual eyelashes, natural skin texture. No skin smoothing, no beauty filter. The product label must be crisp and fully readable. Hyper-realistic detail.\",\n  \"rendering_block\": \"Her skin must look raw and unfiltered — real texture, real detail, real pores — but firm, tight, and plump with zero visible wrinkles or lines. Natural facial asymmetry. The image must look like a real iPhone photo, not AI-generated. Zero retouching. Zero AI smoothing.\"\n}",
+    "tags": []
+  },
+  {
+    "id": 256,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "UGC-style photo, phone camera quality, slight noise and natural imperfections. American woman, early-to-mid 40s, regular mom appearance, warm and approachable face, visible expression lines, natural skin texture, no heavy makeup. Standing in a softly lit bathroom or bedroom near a window, soft diffused daylight. Facing camera directly, neutral-to-warm expression, mid-chest framing, eye level. Clean background, no clutter. No text, no subtitles, no UI overlays.\nNegative Prompt: Glamorous, overly polished, studio lighting, harsh shadows, heavy makeup, filters, beauty influencer aesthetic, text, subtitles, phone UI, watermarks, stock photo feel.",
+    "tags": []
+  },
+  {
+    "id": 257,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "edit",
+    "prompt": "make her hair looks better",
+    "tags": []
+  },
+  {
+    "id": 258,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "Handheld phone camera footage, slight natural shake, warm soft window light, bathroom or bedroom setting. American woman, early-to-mid 40s, natural mom appearance, visible expression lines, natural skin texture, light or no makeup. Faces camera directly, mid-chest framing, eye level. Mouth moving, speaking directly to camera, confident and warm expression. Minimal movement. Natural ambient sound.\nNegative Prompt: Subtitles, on-screen text, captions, studio lighting, heavy makeup, filters, glamorous, phone UI, watermarks, silent, mouth closed.",
+    "tags": []
+  },
+  {
+    "id": 259,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "UGC-style photo, phone camera quality, slight grain, natural imperfections, handheld feel. The exact same woman from the reference image: early-to-mid 40s, medium-length dirty blonde hair pulled back loosely, freckled skin, natural skin texture, visible expression lines, no makeup, grey knit sweater. Standing or seated in a casual living room, soft natural light from a nearby window, couch or neutral wall in background, lived-in home feel. Mid-chest framing, eye level, mouth open mid-speech, engaged and natural expression.\nNegative Prompt: Subtitles, on-screen text, captions, phone UI, watermarks, studio lighting, heavy makeup, filters, glamorous, different woman, different hair, different clothing.",
+    "tags": []
+  },
+  {
+    "id": 260,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "other",
+    "prompt": "make it 9-16 aspect ratio",
+    "tags": []
+  },
+  {
+    "id": 261,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "UGC-style photo, phone camera quality, slight grain, natural imperfections, handheld selfie feel. American woman, mid-to-late 50s, shoulder-length straight blonde hair with subtle highlights and soft side-swept bangs, blue-grey eyes, slightly narrower nose, light natural makeup, warm rosy complexion, visible smile lines and natural skin texture. Wearing a casual light grey v-neck top. Standing in a bedroom, soft natural window light, neutral grey wall and bed visible in background. Mid-chest framing, slight angle, warm genuine smile, relaxed and approachable expression.\nNegative Prompt: Subtitles, on-screen text, captions, phone UI, watermarks, studio lighting, heavy makeup, filters, glamorous, overly polished, stock photo feel, identical to reference.",
+    "tags": []
+  },
+  {
+    "id": 262,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "UGC-style photo, phone camera quality, slight grain, natural imperfections, handheld selfie feel. American woman, mid-to-late 50s, shoulder-length straight black hair, brown eyes, long narrow nose, square jawline, strong facial structure, light natural makeup, warm complexion, visible smile lines and natural skin texture. Wearing a casual light grey v-neck top. Standing in a bedroom, soft natural window light, neutral grey wall and bed visible in background. Mid-chest framing, slight angle, warm genuine smile, relaxed and approachable expression. Use reference image for UGC quality, lighting style, and framing only - not for facial features or appearance.\nNegative Prompt: Subtitles, on-screen text, captions, phone UI, watermarks, studio lighting, heavy makeup, filters, glamorous, overly polished, stock photo feel, blonde hair, blue eyes, small nose, oval face, identical to reference.",
+    "tags": []
+  },
+  {
+    "id": 263,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "UGC-style photo, phone camera quality, slight grain, natural imperfections, handheld selfie feel. The exact same woman from the reference image: mid-to-late 50s, shoulder-length straight blonde hair with highlights, blue-grey eyes, warm rosy complexion, visible smile lines, natural skin texture, light or no makeup, grey v-neck t-shirt. Standing in a home bathroom, soft natural window light, neutral tiles or wall visible in background, everyday lived-in feel. Mid-chest framing, slight angle, warm genuine smile. Use reference image for character consistency only.\nNegative Prompt: Subtitles, on-screen text, captions, phone UI, watermarks, studio lighting, heavy makeup, filters, glamorous, overly polished, different woman, different hair color, different clothing.",
+    "tags": []
+  },
+  {
+    "id": 264,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "LOCATION 2 — Bathroom (revised)\nPrompt: UGC-style photo, phone camera quality, slight grain, natural imperfections. The exact same woman from the reference image: mid-to-late 50s, shoulder-length straight blonde hair with highlights, blue-grey eyes, warm rosy complexion, visible smile lines, natural skin texture, light or no makeup, grey v-neck t-shirt. Standing in a home bathroom, soft natural window light, neutral tiles or wall visible in background. Camera mounted on a small tripod at counter height, slightly below eye level, woman facing camera with both hands free, relaxed natural stance, not holding phone, arms at sides or one hand resting on counter. Candid everyday feel, not a selfie. Use reference image for character consistency only.\nNegative Prompt: Subtitles, on-screen text, captions, phone UI, watermarks, studio lighting, heavy makeup, filters, glamorous, overly polished, different woman, different hair color, arm raised, hand near face, selfie pose, hand holding phone.",
+    "tags": []
+  },
+  {
+    "id": 265,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "edit",
+    "prompt": "remove the triod behind her",
+    "tags": []
+  },
+  {
+    "id": 266,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "edit",
+    "prompt": "remove the sink behind her",
+    "tags": []
+  },
+  {
+    "id": 267,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "other",
+    "prompt": "change her clothes to something casual",
+    "tags": []
+  },
+  {
+    "id": 268,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "other",
+    "prompt": "change her clothes",
+    "tags": []
+  },
+  {
+    "id": 269,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "other",
+    "prompt": "she is holding the product",
+    "tags": []
+  },
+  {
+    "id": 270,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "UGC-style photo, phone camera quality, slight grain, natural imperfections, tripod-mounted camera feel. Same woman from reference: mid-to-late 50s, shoulder-length straight blonde hair with highlights, warm rosy complexion, visible smile lines, natural skin texture, light or no makeup, green cardigan over white t-shirt. Standing in a bathroom, soft natural window light, neutral beige tiles and mirror visible in background. Mid-chest framing, eye level. Holding up the Blurr Instant Eye Tightener - a silver cylindrical pump bottle with black BLURR logo and purple stripe - in one hand toward camera, slight genuine smile, casual confident expression. Product label clearly visible facing camera.\nNegative Prompt: Subtitles, on-screen text, captions, phone UI, watermarks, selfie pose, hand holding phone, studio lighting, heavy makeup, filters, glamorous, overly stylized product shot, different woman, different hair color, different clothing.",
+    "tags": []
+  },
+  {
+    "id": 271,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "eye-treatment",
+    "prompt": "make her with no eye bags",
+    "tags": []
+  },
+  {
+    "id": 272,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "eye-treatment",
+    "prompt": "make her with a little more eye bags",
+    "tags": []
+  },
+  {
+    "id": 273,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "Prompt:\nUGC-style photo, phone camera quality, slight grain, natural imperfections. Extreme close-up of a woman's under-eye area, mature skin, mid-to-late 50s, visible puffiness, mild discoloration, natural fine lines. No product applied. No makeup. Skin texture fully visible, no retouching. Soft diffused window light from the side.\n\nNegative Prompt:\nSubtitles, on-screen text, captions, phone UI, watermarks, heavy retouching, smooth skin, studio lighting, white cast, product visible, full face.",
+    "tags": []
+  },
+  {
+    "id": 274,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "Prompt:\nUGC-style photo, phone camera quality, slight grain, natural imperfections. Extreme close-up, soft side window light. Side-by-side view of the same under-eye area: left side untreated with visible puffiness and fine lines, right side visibly tighter, smoother, lifted. Same natural skin tone, no white cast. Realistic mature skin texture, no retouching.\n\nNegative Prompt:\nSubtitles, on-screen text, labels, captions, phone UI, watermarks, white cast, over-retouched skin, CGI skin, dramatic lighting, full face.",
+    "tags": []
+  },
+  {
+    "id": 275,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "UGC-style photo, phone camera quality, slight grain, natural imperfections. Medium close-up of the lower half of a woman's face, mid-to-late 50s, framing from just below the eyes to the top of the lip. Both eyes and the full under-eye area clearly visible. Prominent puffy eye bags under both eyes, noticeable swelling and shadow beneath the lower lids, mild discoloration, tired appearance. Natural fine lines across cheeks and under-eye zone. No makeup, no product applied. Soft diffused window light from the side. Realistic mature skin texture, no retouching.",
+    "tags": []
+  },
+  {
+    "id": 276,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "UGC-style photo, phone camera quality, slight grain, natural imperfections. Medium close-up  85mm camera lens of the lower half of a woman's face, mid-to-late 50s, framing from just below the eyes to the top of the lip. Both eyes and the full under-eye area clearly visible. Prominent puffy eye bags under both eyes, noticeable swelling and shadow beneath the lower lids, mild discoloration, tired appearance. Natural fine lines across cheeks and under-eye zone. No makeup, no product applied. Soft diffused window light from the side. Realistic mature skin texture, no retouching.",
+    "tags": []
+  },
+  {
+    "id": 277,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "Prompt:\nUGC-style photo, phone camera quality, slight grain, natural imperfections. Single photo of the same woman's face, mid-to-late 50s, blonde hair, medium close-up from below the eyes to just above the lip. The left side of her face shows an untreated under-eye: visible puffiness, noticeable eye bag, dark shadow beneath the lower lid, fine lines. The right side of her face shows the treated under-eye: visibly tighter, smoother, lifted, reduced puffiness, same natural skin tone, no white cast. Both sides are the same face, same photo, same lighting. Soft diffused window light from the front. Realistic mature skin texture, no retouching. No dividing line between sides.\n\nNegative Prompt:\nSubtitles, on-screen text, labels, captions, dividing line, split screen, two separate photos, phone UI, watermarks, white cast, over-retouched skin, CGI skin, dramatic lighting, full face with forehead, heavy makeup, studio lighting.",
+    "tags": []
+  },
+  {
+    "id": 278,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "Prompt:\nUGC-style photo, phone camera quality, slight grain, natural imperfections. Extreme close-up, soft natural window light. A woman's hand holding the Blurr Instant Eye Tightener - silver cylindrical pump bottle with black BLURR logo and purple stripe. Label facing camera, clearly visible. Warm natural skin tone, no nail polish. Counter or surface softly blurred in background.\n\nNegative Prompt:\nSubtitles, on-screen text, captions, phone UI, watermarks, studio lighting, glamorous product shot, harsh shadows, full face visible.",
+    "tags": []
+  },
+  {
+    "id": 279,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "Prompt:\nUGC-style photo, phone camera quality, slight grain, natural imperfections. Extreme close-up, soft natural window light. A woman's hand holding the Blurr Instant Eye Tightener. Label facing camera, clearly visible. Warm natural skin tone, no nail polish. Counter or surface softly blurred in background.\n\nNegative Prompt:\nSubtitles, on-screen text, captions, phone UI, watermarks, studio lighting, glamorous product shot, harsh shadows, full face visible.",
+    "tags": []
+  },
+  {
+    "id": 280,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "Prompt:\nUGC-style photo, phone camera quality, slight grain, natural imperfections. Extreme close-up, soft diffused window light. Woman's fingertip held flat under the pump nozzle of the Blurr Instant Eye Tightener. A rice-grain sized amount of clear serum visible on fingertip. Product texture clear, slightly gel-like. Bathroom or bedroom surface softly blurred in background.\n\nNegative Prompt:\nSubtitles, on-screen text, captions, phone UI, watermarks, studio lighting, too much product, white or opaque product color, full face.",
+    "tags": []
+  },
+  {
+    "id": 281,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "Prompt:\nUGC-style photo, phone camera quality, slight grain, natural imperfections. Medium close-up, soft window light, bedroom setting. Same woman, mid-to-late 50s, blonde hair, grey v-neck t-shirt. Holding completely still, wide-eyed and patient, slight anticipatory expression. One under-eye has thin layer of product drying, other eye untreated. Hands at sides, relaxed posture.\n\nNegative Prompt:\nSubtitles, on-screen text, captions, phone UI, watermarks, bored or impatient expression, studio lighting, heavy makeup, product in hand.",
+    "tags": []
+  },
+  {
+    "id": 282,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "Prompt:\nUGC-style photo, phone camera quality, slight grain, natural imperfections. Extreme close-up, soft side window light. One fingertip gently pressing clear serum under one eye only. Mature skin, visible lines and mild puffiness. Other eye untreated and visible in frame for contrast. No white cast. Rice-grain amount of product visible on skin.\n\nNegative Prompt:\nSubtitles, on-screen text, captions, phone UI, watermarks, white cast, heavy retouching, full face visible, studio lighting.",
+    "tags": []
+  },
+  {
+    "id": 283,
+    "date": "2026-03-17",
+    "model": "nano_banana_flash",
+    "category": "ugc",
+    "prompt": "Prompt:\nUGC-style photo, phone camera quality, slight grain, natural imperfections. Medium close-up, soft window light, bedroom setting, bed visible in background. Same woman from reference: mid-to-late 50s, shoulder-length straight blonde hair, blue-grey eyes, warm rosy complexion, grey v-neck t-shirt. Facing camera directly, holding still, patient and slightly anticipatory expression. A very thin barely visible layer of clear serum freshly applied under the RIGHT eye only - skin slightly moist from the product, almost fully absorbed, just a subtle sheen visible. Left eye completely untreated and natural. Hands at sides, relaxed posture. Mouth closed.\n\nNegative Prompt:\nSubtitles, on-screen text, captions, phone UI, watermarks, heavy white cream, thick product layer, cakey product, white cast, product under left eye, bored or impatient expression, studio lighting, heavy makeup, product in hand, talking, mouth open.",
+    "tags": []
+  }
+]

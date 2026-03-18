@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    container_name: prompticle
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    volumes:
+      # Named volume keeps SQLite data across restarts and rebuilds
+      - prompticle_data:/data
+    environment:
+      NODE_ENV: production
+      DATABASE_URL: file:/data/prompticle.db
+      AUTH_PASSWORD: Blurr2026!
+
+volumes:
+  prompticle_data:
+    driver: local

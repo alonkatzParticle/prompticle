@@ -1,0 +1,27 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Prompt {
+  id         Int      @id @default(autoincrement())
+  prompt     String
+  date       DateTime
+  model      String
+  category   String
+  tags       String   @default("[]")
+  isFavorite Boolean  @default(false)
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+}
+
+model Category {
+  id    Int    @id @default(autoincrement())
+  name  String @unique
+  color String @default("#6366f1")
+  icon  String @default("folder")
+}
