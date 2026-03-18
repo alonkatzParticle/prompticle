@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useCallback, useEffect } from 'react'
-import { X, Copy, Check, Star, Calendar, Cpu, Tag } from 'lucide-react'
+import { X, Copy, Check, Star, Calendar, Cpu, Tag, Trash2 } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import { toast } from 'sonner'
 import type { PromptData } from './prompt-card'
@@ -10,6 +10,7 @@ interface PromptModalProps {
   prompt: PromptData | null
   onClose: () => void
   onFavoriteToggle?: (id: number, newValue: boolean) => void
+  onDelete?: (id: number) => void
   categoryColor?: string
 }
 
@@ -40,10 +41,11 @@ function formatDate(dateStr: string): string {
   }
 }
 
-export function PromptModal({ prompt, onClose, onFavoriteToggle, categoryColor }: PromptModalProps) {
+export function PromptModal({ prompt, onClose, onFavoriteToggle, onDelete, categoryColor }: PromptModalProps) {
   const [copied, setCopied] = useState(false)
   const [isFavorite, setIsFavorite] = useState(prompt?.isFavorite || false)
   const [favoriteLoading, setFavoriteLoading] = useState(false)
+  const [deleteLoading, setDeleteLoading] = useState(false)
 
   useEffect(() => {
     if (prompt) {
@@ -82,6 +84,25 @@ export function PromptModal({ prompt, onClose, onFavoriteToggle, categoryColor }
       toast.error('Failed to copy')
     }
   }, [prompt])
+
+  const handleDelete = useCallback(async () => {
+    if (!prompt || deleteLoading) return
+    setDeleteLoading(true)
+    try {
+      const res = await fetch(`/api/prompts/${prompt.id}`, { method: 'DELETE' })
+      if (res.ok) {
+        onDelete?.(prompt.id)
+        onClose()
+        toast.success('Prompt deleted')
+      } else {
+        toast.error('Failed to delete prompt')
+      }
+    } catch {
+      toast.error('Failed to delete prompt')
+    } finally {
+      setDeleteLoading(false)
+    }
+  }, [prompt, deleteLoading, onDelete, onClose])
 
   const handleFavorite = useCallback(async () => {
     if (!prompt || favoriteLoading) return
@@ -159,6 +180,14 @@ export function PromptModal({ prompt, onClose, onFavoriteToggle, categoryColor }
             >
               {copied ? <Check className="w-4 h-4" /> : <Copy className="w-4 h-4" />}
               {copied ? 'Copied!' : 'Copy'}
+            </button>
+            <button
+              onClick={handleDelete}
+              disabled={deleteLoading}
+              className="p-2 rounded-lg text-gray-500 hover:text-red-400 hover:bg-red-400/10 transition-colors"
+              title="Delete prompt"
+            >
+              <Trash2 className="w-4 h-4" />
             </button>
             <button
               onClick={onClose}
